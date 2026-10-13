@@ -1,0 +1,12 @@
+quantity,report_value,verified_value
+Zipped TSV export size,363 MB,"380,907,657 bytes (363.3 MiB; 380.9 MB)"
+Rows in results,about 6.6 million,"6,972,832"
+Distinct WCA IDs in persons,"282,000","299,943"
+"Competitions, excluding cancelled","18,000","18,522"
+Competitions already held (with results),,"17,940"
+Countries that have held a competition (excluding multi-country codes),138 (Assignment 1),124
+Country codes with a held competition (including multi-country codes),,132
+"Countries with any competition not cancelled, including upcoming ones (excluding multi-country codes)",,130
+Countries that competitors represent (current persons rows),,166
+Competitor-competition pairs in the derived matrix (competitors x competitions not cancelled),exceeds a billion,5.6 billion
+Registration records (developer export),1.2 million (Assignment 1),"1,241,868"

@@ -1,0 +1,4 @@
+table,rows,columns_available,columns_read,personal_columns_never_read
+competitions,18901,22,12,"delegates, organizers (names and emails)"
+persons,300422,5,4,name
+results,6972832,13,6,person_name

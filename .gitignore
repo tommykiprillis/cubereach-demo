@@ -1,0 +1,7 @@
+# This repository publishes only the derived data snapshot and its documentation.
+# Everything else in the project folder stays local, including the raw WCA exports,
+# the hashing salt and all working files.
+/*
+!/.gitignore
+!/README.md
+!/data_snapshot/

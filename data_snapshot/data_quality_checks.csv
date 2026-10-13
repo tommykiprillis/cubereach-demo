@@ -1,0 +1,16 @@
+table,check,found,action
+competitions,duplicate competition IDs,0,none needed
+competitions,cancelled competitions,379,excluded from opportunity sets
+competitions,end date before start date,0,none needed
+competitions,"zero coordinates (0, 0)",19,all are multi-location fewest-moves events outside Australia; excluded from distance features
+competitions,Australian competitions with zero coordinates,0,none needed
+persons,rows with sub_id > 1 (name or country changes),479,kept the current row (sub_id = 1)
+persons,duplicate WCA IDs after keeping sub_id = 1,0,none needed
+persons,missing gender,398,kept; shown as 'unknown' in the fairness audit only
+results,duplicate result IDs,0,none needed
+results,results whose person is not in persons,0,none needed
+results,results whose competition is not in competitions,0,none needed
+results,results at cancelled competitions,0,none needed
+results,best = -1 (DNF),190251,kept for attendance; excluded from performance percentile
+results,best = -2 (DNS) or 0 (no result),0,none needed
+results,3x3x3 rounds with no valid average (average <= 0),21022,missing-performance flag (Section 4)

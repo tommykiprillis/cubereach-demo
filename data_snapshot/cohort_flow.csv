@@ -1,0 +1,10 @@
+step,persons
+Persons with at least one result (worldwide),299943
+Persons whose debut was in Australia,12992
+  excluded: debut before 1 January 2012,116
+  excluded: debut after 13 September 2025 (incomplete follow-up),1324
+  excluded: follow-up overlaps COVID-19 disruption (16 March 2020 to 31 December 2021),2096
+Analysis cohort,9456
+  training set: debuts in 2015 to 2019 and 2022,4292
+  test set: debuts in 2023 and 2024,4036
+  descriptive only: debuts in 2012 to 2014 and 2025,1128

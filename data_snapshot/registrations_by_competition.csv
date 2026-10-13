@@ -1,0 +1,470 @@
+competition_id,start_date,region_type,nearest_capital,competitor_limit,n_competing_registrations,oversubscription_ratio,reached_cap,hours_to_cap,invalid_opening_time,registrations_after_cap
+ACTChampionship2025,2025-12-06,Capital-city region,Canberra,80,119,1.488,TRUE,79.3,FALSE,39
+AbbotsfordBegins2022,2022-07-03,Capital-city region,Melbourne,30,38,1.267,TRUE,74.7,FALSE,NA
+AbbotsfordBigCubeDay2022,2022-07-17,Capital-city region,Melbourne,30,30,1,TRUE,884,FALSE,NA
+AbbotsfordBlindChallenge2022,2022-07-10,Capital-city region,Melbourne,30,18,0.6,FALSE,NA,FALSE,NA
+AdelaideAutumn2022,2022-05-22,Capital-city region,Adelaide,120,152,1.267,TRUE,837.3,FALSE,32
+AdelaideAutumn2023,2023-05-21,Capital-city region,Adelaide,175,168,0.96,FALSE,NA,FALSE,NA
+AdelaideAutumn2026,2026-04-12,Capital-city region,Adelaide,60,75,1.25,TRUE,1170.5,FALSE,15
+AdelaideSpring2026,2026-10-03,Capital-city region,Adelaide,70,89,1.271,TRUE,738,FALSE,19
+AdelaideSummer2019,2019-01-19,Capital-city region,Adelaide,120,106,0.883,FALSE,NA,FALSE,NA
+AdelaideSummer2020,2020-01-11,Capital-city region,Adelaide,120,104,0.867,FALSE,NA,FALSE,NA
+AdelaideSummer2022,2022-01-15,Capital-city region,Adelaide,90,99,1.1,TRUE,716,FALSE,NA
+AdelaideSummer2023,2023-01-28,Capital-city region,Adelaide,175,190,1.086,TRUE,1825.7,FALSE,15
+AdelaideSummer2024,2024-01-13,Capital-city region,Adelaide,175,125,0.714,FALSE,NA,FALSE,NA
+AdelaideSummer2025,2025-01-10,Capital-city region,Adelaide,125,107,0.856,FALSE,NA,FALSE,NA
+AdelaideSummer2026,2026-01-10,Capital-city region,Adelaide,120,110,0.917,FALSE,NA,FALSE,NA
+AdelaideTwinSaturday2021,2021-01-16,Capital-city region,Adelaide,60,46,0.767,FALSE,NA,FALSE,NA
+AdelaideTwinSunday2021,2021-01-17,Capital-city region,Adelaide,60,52,0.867,FALSE,NA,FALSE,NA
+AdelaideWinterSaturday2023,2023-06-24,Capital-city region,Adelaide,70,70,1,TRUE,1033.6,FALSE,NA
+AdelaideWinterSunday2023,2023-06-25,Capital-city region,Adelaide,70,66,0.943,FALSE,NA,FALSE,NA
+AlbanySummerSolving2022,2022-02-05,Regional,Perth,40,50,1.25,TRUE,1629.2,FALSE,10
+AlbanySummerSolving2023,2023-01-28,Regional,Perth,50,30,0.6,FALSE,NA,FALSE,NA
+AlbanySummerSolving2024,2024-01-27,Regional,Perth,50,50,1,TRUE,3379.8,FALSE,NA
+AlbanySummerSolving2025,2025-01-25,Regional,Perth,50,27,0.54,FALSE,NA,FALSE,NA
+AllBlindAdelaide2026,2026-03-29,Capital-city region,Adelaide,40,NA,0.225,FALSE,NA,FALSE,NA
+AllWelcomeAdelaide2024,2024-03-09,Capital-city region,Adelaide,120,98,0.817,FALSE,NA,FALSE,NA
+AllWelcomeAdelaide2025,2025-03-22,Capital-city region,Adelaide,70,79,1.129,TRUE,722.1,FALSE,NA
+AltonaAlgorithms2019,2019-10-05,Capital-city region,Melbourne,250,280,1.12,TRUE,2018.1,FALSE,30
+AltonaAlgorithms2024,2024-03-02,Capital-city region,Melbourne,400,304,0.76,FALSE,NA,FALSE,NA
+AltonaAlgorithmsAttempt22021,2021-04-17,Capital-city region,Melbourne,190,235,1.237,TRUE,4,FALSE,45
+ApolloBayCubing2022,2022-09-10,Regional,Melbourne,60,90,1.5,TRUE,146.4,FALSE,30
+ApolloBayCubing2023,2023-05-13,Regional,Melbourne,100,99,0.99,FALSE,NA,FALSE,NA
+ApolloBayCubing2024,2024-06-15,Regional,Melbourne,60,68,1.133,TRUE,980.1,FALSE,NA
+ApolloBayCubing2025,2025-10-18,Regional,Melbourne,100,59,0.59,FALSE,NA,FALSE,NA
+AprilinAliceSprings2021,2021-04-04,Regional,Darwin,15,13,0.867,FALSE,NA,FALSE,NA
+AustralianNationals2022,2022-09-30,Capital-city region,Perth,350,321,0.917,FALSE,NA,FALSE,NA
+AustralianNationals2023,2023-09-28,Capital-city region,Brisbane,1000,626,0.626,FALSE,NA,FALSE,NA
+AustralianNationals2024,2024-07-12,Capital-city region,Adelaide,400,416,1.04,TRUE,3435.1,FALSE,16
+AustralianNationals2025,2025-10-02,Capital-city region,Brisbane,600,463,0.772,FALSE,NA,FALSE,NA
+AustralianNationals2026,2026-07-09,Capital-city region,Melbourne,700,597,0.853,FALSE,NA,FALSE,NA
+BarwonCubefortheKids2021,2021-03-14,Capital-city region,Melbourne,120,162,1.35,TRUE,69.5,FALSE,42
+BelgraveOpen2026,2026-09-12,Capital-city region,Melbourne,250,237,0.948,FALSE,NA,FALSE,NA
+BendigoCubeBlitz2020,2020-02-23,Regional,Melbourne,80,122,1.525,TRUE,459.7,FALSE,42
+BigCubeTimeBrisbane2026,2026-05-30,Capital-city region,Brisbane,50,57,1.14,TRUE,865.4,FALSE,NA
+BigNBlindBerwick2023,2023-12-16,Capital-city region,Melbourne,45,39,0.867,FALSE,NA,FALSE,NA
+BigNBlindBerwick2024,2024-10-12,Capital-city region,Melbourne,40,36,0.9,FALSE,NA,FALSE,NA
+BindoonBonanza2026,2026-09-05,Capital-city region,Perth,40,18,0.45,FALSE,NA,FALSE,NA
+BoxHillBigBlindBonanza2019,2019-09-14,Capital-city region,Melbourne,25,29,1.16,TRUE,1245.4,FALSE,NA
+BraybrookBigCubes2026,2026-05-02,Capital-city region,Melbourne,50,46,0.92,FALSE,NA,FALSE,NA
+BrilliantBallarat2019,2019-02-16,Regional,Melbourne,100,65,0.65,FALSE,NA,FALSE,NA
+BrilliantBallarat2022,2022-02-12,Regional,Melbourne,110,128,1.164,TRUE,327.4,FALSE,18
+BrilliantBallarat2023,2023-02-25,Regional,Melbourne,150,180,1.2,TRUE,1935.9,FALSE,30
+BrilliantBallarat2024,2024-03-16,Regional,Melbourne,120,103,0.858,FALSE,NA,FALSE,NA
+BrilliantBallarat2025,2025-02-15,Regional,Melbourne,120,112,0.933,FALSE,NA,FALSE,NA
+BrilliantBallarat2026,2026-05-30,Regional,Melbourne,120,85,0.708,FALSE,NA,FALSE,NA
+BrisbaneAt6sand7s2024,2024-06-01,Capital-city region,Brisbane,24,24,1,TRUE,976.1,FALSE,NA
+BrisbaneAutumn2022,2022-04-02,Capital-city region,Brisbane,280,290,1.036,TRUE,720.6,FALSE,10
+BrisbaneBignBlind2023,2023-11-11,Capital-city region,Brisbane,40,48,1.2,TRUE,574.2,FALSE,NA
+BrisbaneIsBackOn2021,2021-01-16,Capital-city region,Brisbane,200,259,1.295,TRUE,182.1,FALSE,59
+BrisbaneMegaBlind2024,2024-10-19,Capital-city region,Brisbane,45,33,0.733,FALSE,NA,FALSE,NA
+BrisbaneNewcomers2025,2025-03-02,Capital-city region,Brisbane,100,150,1.5,TRUE,747.7,FALSE,50
+BrisbaneSummer2023,2023-02-04,Capital-city region,Brisbane,360,378,1.05,TRUE,2133.5,FALSE,18
+BrisbaneSummer2024,2024-02-03,Capital-city region,Brisbane,250,253,1.012,TRUE,2686,FALSE,NA
+BrisbaneSummer2025,2025-02-01,Capital-city region,Brisbane,250,224,0.896,FALSE,NA,FALSE,NA
+Brisbanes20in21in2022,2022-06-25,Capital-city region,Brisbane,120,157,1.308,TRUE,28.8,FALSE,37
+BroomeOpen2023,2023-11-04,Regional,Darwin,30,22,0.733,FALSE,NA,FALSE,NA
+BroomeOpen2024,2024-11-23,Regional,Darwin,30,11,0.367,FALSE,NA,FALSE,NA
+BunburySouthWestSpeedsolving2023,2023-08-05,Regional,Perth,50,36,0.72,FALSE,NA,FALSE,NA
+BunburysSpeedsolving2024,2024-09-14,Regional,Perth,50,29,0.58,FALSE,NA,FALSE,NA
+BunburysSpeedsolving2025,2025-11-16,Regional,Perth,50,39,0.78,FALSE,NA,FALSE,NA
+ButlerBlitz2022,2022-11-26,Capital-city region,Perth,70,102,1.457,TRUE,NA,TRUE,32
+ButlerBlitz2023,2023-10-21,Capital-city region,Perth,100,52,0.52,FALSE,NA,FALSE,NA
+CACBrisbane2026,2026-02-14,Capital-city region,Brisbane,300,212,0.707,FALSE,NA,FALSE,NA
+CairnsOpen2026,2026-10-03,Regional,Brisbane,60,19,0.317,FALSE,NA,FALSE,NA
+CammerayClockClash2025,2025-09-27,Capital-city region,Sydney,70,54,0.771,FALSE,NA,FALSE,NA
+CanberraAutumn2022,2022-05-07,Capital-city region,Canberra,125,146,1.168,TRUE,763.4,FALSE,21
+CanberraSpring2024,2024-10-05,Capital-city region,Canberra,100,83,0.83,FALSE,NA,FALSE,NA
+CanberraSpringOpen2026,2026-09-19,Capital-city region,Canberra,70,56,0.8,FALSE,NA,FALSE,NA
+CanningClocksandCubes2025,2025-07-27,Capital-city region,Perth,50,39,0.78,FALSE,NA,FALSE,NA
+CapitalCubingCanberraSat2024,2024-05-04,Capital-city region,Canberra,80,71,0.887,FALSE,NA,FALSE,NA
+CapitalCubingCanberraSun2024,2024-05-05,Capital-city region,Canberra,80,39,0.488,FALSE,NA,FALSE,NA
+ChaoticCraigie2021,2021-08-29,Capital-city region,Perth,80,29,0.362,FALSE,NA,FALSE,NA
+ChillinginCanberra2023,2023-05-06,Capital-city region,Canberra,120,163,1.358,TRUE,424.2,FALSE,43
+ChillinginCanberraSaturday2024,2024-06-22,Capital-city region,Canberra,100,92,0.92,FALSE,NA,FALSE,NA
+ChillinginCanberraSunday2024,2024-06-23,Capital-city region,Canberra,100,57,0.57,FALSE,NA,FALSE,NA
+ChillinginToowoomba2024,2024-08-24,Regional,Brisbane,120,114,0.95,FALSE,NA,FALSE,NA
+ClareValleyCubing2022,2022-08-21,Regional,Adelaide,75,96,1.28,TRUE,1201,FALSE,21
+Clockburn2023,2023-12-03,Capital-city region,Perth,70,48,0.686,FALSE,NA,FALSE,NA
+CoffsBigBananaBonanza2024,2024-09-28,Regional,Brisbane,80,63,0.787,FALSE,NA,FALSE,NA
+CoffsBigBananaBonanza2025,2025-08-09,Regional,Brisbane,100,46,0.46,FALSE,NA,FALSE,NA
+CoolDownSydney2019,2019-02-10,Capital-city region,Sydney,120,169,1.408,TRUE,408.2,FALSE,49
+CoolDownwiththeCows2022,2022-10-08,Regional,Perth,50,55,1.1,TRUE,3159.7,FALSE,NA
+CraigieCubeOff2021,2021-03-28,Capital-city region,Perth,100,114,1.14,TRUE,349.1,FALSE,14
+CranbourneAttempt22021,2021-12-18,Capital-city region,Melbourne,50,40,0.8,FALSE,NA,FALSE,NA
+CranbourneSpringSaturday2023,2023-09-09,Capital-city region,Melbourne,140,81,0.579,FALSE,NA,FALSE,NA
+CranbourneSpringSunday2023,2023-09-10,Capital-city region,Melbourne,140,155,1.107,TRUE,1346,FALSE,15
+CubeforCambodia2019,2019-04-28,Capital-city region,Melbourne,100,78,0.78,FALSE,NA,FALSE,NA
+CubingAtTheCubeSaturday2023,2023-01-21,Capital-city region,Sydney,250,169,0.676,FALSE,NA,FALSE,NA
+CubingAtTheCubeSunday2023,2023-01-22,Capital-city region,Sydney,250,261,1.044,TRUE,1297.9,FALSE,11
+CubingatTheCube2024,2024-01-06,Capital-city region,Sydney,250,210,0.84,FALSE,NA,FALSE,NA
+CubingatTheCube2025,2025-01-11,Capital-city region,Sydney,250,217,0.868,FALSE,NA,FALSE,NA
+CubingatTheCube2026,2026-01-10,Capital-city region,Sydney,250,282,1.128,TRUE,1242.1,FALSE,32
+CubingatTheGameExpo2024,2024-03-23,Capital-city region,Melbourne,100,137,1.37,TRUE,717.9,FALSE,37
+CubingatTramshedsSaturday2023,2023-08-26,Capital-city region,Sydney,115,136,1.183,TRUE,386.1,FALSE,21
+CubingatTramshedsSunday2023,2023-08-27,Capital-city region,Sydney,115,113,0.983,FALSE,NA,FALSE,NA
+CubingbyQuinnsBeach2023,2023-12-16,Capital-city region,Perth,80,68,0.85,FALSE,NA,FALSE,NA
+CubingbySorrentoBeach2025,2025-12-21,Capital-city region,Perth,50,69,1.38,TRUE,483.5,FALSE,19
+CubinginCorindaSaturday2024,2024-03-09,Capital-city region,Brisbane,120,154,1.283,TRUE,1129.6,FALSE,34
+CubinginCorindaSunday2024,2024-03-10,Capital-city region,Brisbane,120,115,0.958,FALSE,NA,FALSE,NA
+CubinginWollondilly2024,2024-08-31,Capital-city region,Sydney,80,85,1.062,TRUE,862.5,FALSE,NA
+CubingintheDilly2023,2023-06-10,Capital-city region,Sydney,90,109,1.211,TRUE,409.9,FALSE,19
+CubingwithPenguins2023,2023-09-16,Capital-city region,Melbourne,100,72,0.72,FALSE,NA,FALSE,NA
+CubingwiththeCows2020,2020-11-28,Regional,Perth,50,46,0.92,FALSE,NA,FALSE,NA
+DarwinOpen2019,2019-12-07,Capital-city region,Darwin,45,46,1.022,TRUE,4319,FALSE,NA
+DarwinOpen2020,2020-12-05,Capital-city region,Darwin,30,39,1.3,TRUE,1705.4,FALSE,NA
+DarwinOpen2022,2022-04-16,Capital-city region,Darwin,30,37,1.233,TRUE,527.7,FALSE,NA
+DarwinOpen2026,2026-09-27,Capital-city region,Darwin,50,35,0.7,FALSE,NA,FALSE,NA
+DontInverlochUp2024,2024-02-10,Regional,Melbourne,100,84,0.84,FALSE,NA,FALSE,NA
+DontInverlochUp2025,2025-05-03,Regional,Melbourne,100,78,0.78,FALSE,NA,FALSE,NA
+DontInverlochUp2026,2026-02-07,Regional,Melbourne,100,55,0.55,FALSE,NA,FALSE,NA
+EastsideSideEvents2024,2024-02-17,Capital-city region,Brisbane,90,90,1,TRUE,1777.8,FALSE,NA
+EnjoyableSydneyGathering2020,2020-03-07,Capital-city region,Sydney,160,180,1.125,TRUE,167.2,FALSE,20
+EvenBetterSydneyGathering2022,2022-09-24,Capital-city region,Sydney,120,120,1,TRUE,461.9,FALSE,NA
+FMCEastMelbourne2023,2023-04-01,Capital-city region,Melbourne,25,25,1,TRUE,886.8,FALSE,NA
+FMCEastMelbourne2024,2024-04-13,Capital-city region,Melbourne,30,31,1.033,TRUE,1418.1,FALSE,NA
+FMCEastMelbourne2025,2025-10-25,Capital-city region,Melbourne,20,19,0.95,FALSE,NA,FALSE,NA
+FMCWestMelbourne2023,2023-04-02,Capital-city region,Melbourne,50,21,0.42,FALSE,NA,FALSE,NA
+FMCWestMelbourne2024,2024-04-14,Capital-city region,Melbourne,20,25,1.25,TRUE,166.3,FALSE,NA
+FebruaryFitzroyFun2023,2023-02-11,Capital-city region,Melbourne,30,40,1.333,TRUE,1.5,FALSE,10
+FlindersParkSideEvents2026,2026-06-20,Capital-city region,Perth,40,27,0.675,FALSE,NA,FALSE,NA
+FortitudeSydney2019,2019-09-28,Capital-city region,Sydney,150,170,1.133,TRUE,118.4,FALSE,20
+FourTheWinDandenong2023,2023-07-23,Capital-city region,Melbourne,80,64,0.8,FALSE,NA,FALSE,NA
+FremantleFastFingers2021,2021-10-10,Capital-city region,Perth,140,168,1.2,TRUE,1612.6,FALSE,28
+FreoCubeOff2023,2023-04-16,Capital-city region,Perth,100,91,0.91,FALSE,NA,FALSE,NA
+FreoCubeOff2024,2024-04-07,Capital-city region,Perth,110,50,0.455,FALSE,NA,FALSE,NA
+FreoCubeOff2025,2025-04-05,Capital-city region,Perth,110,88,0.8,FALSE,NA,FALSE,NA
+FreoCubeOff2026,2026-04-12,Capital-city region,Perth,110,74,0.673,FALSE,NA,FALSE,NA
+GdayMaitland2024,2024-02-03,Regional,Sydney,80,93,1.163,TRUE,1176.7,FALSE,13
+GeelongWinter2023,2023-07-29,Capital-city region,Melbourne,120,152,1.267,TRUE,673.3,FALSE,32
+GeelongWinter2024,2024-08-24,Capital-city region,Melbourne,120,160,1.333,TRUE,1224.5,FALSE,40
+GeelongWinter2025,2025-08-30,Capital-city region,Melbourne,120,159,1.325,TRUE,1465.7,FALSE,39
+GeelongWinter2026,2026-08-29,Capital-city region,Melbourne,140,149,1.064,TRUE,1754.4,FALSE,NA
+GeelongsaysSoLong2021,2021-12-28,Capital-city region,Melbourne,120,116,0.967,FALSE,NA,FALSE,NA
+GetAnotherSuccessinSuccess2024,2024-02-24,Capital-city region,Perth,40,35,0.875,FALSE,NA,FALSE,NA
+GetaSuccessinSuccess2023,2023-02-26,Capital-city region,Perth,30,26,0.867,FALSE,NA,FALSE,NA
+GoingBacktotheGong2024,2024-02-10,Capital-city region,Sydney,100,126,1.26,TRUE,807.1,FALSE,26
+GoingFastinGuildford2024,2024-04-13,Capital-city region,Perth,80,79,0.988,FALSE,NA,FALSE,NA
+GoingSlowinGibsonPark2024,2024-03-09,Capital-city region,Perth,40,29,0.725,FALSE,NA,FALSE,NA
+GoingtoTheGong2020,2020-02-16,Capital-city region,Sydney,80,163,2.038,TRUE,31.8,FALSE,83
+GoldCoastSpring2019,2019-09-21,Capital-city region,Brisbane,150,186,1.24,TRUE,2835.2,FALSE,36
+GoodSolvesinGibsonPark2026,2026-03-01,Capital-city region,Perth,40,42,1.05,TRUE,474.4,FALSE,NA
+GoulburnOpen2024,2024-04-20,Capital-city region,Canberra,100,88,0.88,FALSE,NA,FALSE,NA
+HalfTurnsinHallettCove2024,2024-04-20,Capital-city region,Adelaide,60,43,0.717,FALSE,NA,FALSE,NA
+HamptonParkSummerSaturday2023,2023-12-02,Capital-city region,Melbourne,100,77,0.77,FALSE,NA,FALSE,NA
+HamptonParkSummerSunday2023,2023-12-03,Capital-city region,Melbourne,100,73,0.73,FALSE,NA,FALSE,NA
+HaroldParkClassic2019,2019-08-25,Capital-city region,Sydney,120,188,1.567,TRUE,714.5,FALSE,68
+HillarysFirstTurns2026,2026-01-04,Capital-city region,Perth,40,20,0.5,FALSE,NA,FALSE,NA
+HobartAutumn2026,2026-05-24,Capital-city region,Hobart,60,43,0.717,FALSE,NA,FALSE,NA
+HobartHoedown2019,2019-12-14,Capital-city region,Hobart,80,73,0.912,FALSE,NA,FALSE,NA
+HobartOpen2019,2019-03-09,Capital-city region,Hobart,60,38,0.633,FALSE,NA,FALSE,NA
+HobartWinter2024,2024-08-17,Capital-city region,Hobart,50,38,0.76,FALSE,NA,FALSE,NA
+Horsham2019,2019-08-10,Regional,Melbourne,75,63,0.84,FALSE,NA,FALSE,NA
+HurryUpKarrinyup2023,2023-03-19,Capital-city region,Perth,100,90,0.9,FALSE,NA,FALSE,NA
+HurryorNotHillarys2025,2025-03-02,Capital-city region,Perth,40,34,0.85,FALSE,NA,FALSE,NA
+JogYourMemoryJoondalup2025,2025-06-07,Capital-city region,Perth,30,22,0.733,FALSE,NA,FALSE,NA
+JogYourMemoryJoondalup2026,2026-06-13,Capital-city region,Perth,30,23,0.767,FALSE,NA,FALSE,NA
+JustSidesinLyndhurst2026,2026-05-16,Capital-city region,Melbourne,40,44,1.1,TRUE,882.4,FALSE,NA
+KeepUpKarrinyup2025,2025-05-04,Capital-city region,Perth,90,68,0.756,FALSE,NA,FALSE,NA
+Kensington2021,2021-12-19,Capital-city region,Melbourne,100,115,1.15,TRUE,70.1,FALSE,15
+KensingtonMaySaturday2024,2024-05-11,Capital-city region,Melbourne,140,122,0.871,FALSE,NA,FALSE,NA
+KensingtonMaySunday2024,2024-05-12,Capital-city region,Melbourne,140,146,1.043,TRUE,1729.2,FALSE,NA
+KensingtonMayUpstairs2024,2024-05-11,Capital-city region,Melbourne,30,37,1.233,TRUE,1.5,FALSE,NA
+KensingtonSummerSaturday2023,2023-02-11,Capital-city region,Melbourne,100,115,1.15,TRUE,432.8,FALSE,15
+KensingtonSummerSunday2023,2023-02-12,Capital-city region,Melbourne,100,122,1.22,TRUE,265.3,FALSE,22
+KewClockClash2024,2024-09-14,Capital-city region,Melbourne,35,46,1.314,TRUE,38.2,FALSE,11
+KiamaWinter2024,2024-06-01,Capital-city region,Sydney,80,83,1.038,TRUE,1954.6,FALSE,NA
+KlemzigKubingDecathlon2026,2026-08-22,Capital-city region,Adelaide,80,105,1.312,TRUE,2241.8,FALSE,25
+KoalaficationAdelaide2019,2019-05-04,Capital-city region,Adelaide,75,68,0.907,FALSE,NA,FALSE,NA
+KoalaficationBrisbane2019,2019-04-06,Capital-city region,Brisbane,130,130,1,TRUE,1175.9,FALSE,NA
+KoalaficationCanberra2019,2019-04-13,Capital-city region,Canberra,120,79,0.658,FALSE,NA,FALSE,NA
+KoalaficationMelbourne2019,2019-05-18,Capital-city region,Melbourne,220,239,1.086,TRUE,1981.8,FALSE,19
+KoalaficationMelbourne2022,2022-10-15,Capital-city region,Melbourne,500,500,1,TRUE,1514,FALSE,NA
+KoalaficationPerth2019,2019-05-25,Capital-city region,Perth,80,82,1.025,TRUE,1486.7,FALSE,NA
+KoalaficationSydney2019,2019-03-16,Capital-city region,Sydney,150,131,0.873,FALSE,NA,FALSE,NA
+KogarahCubeDaySaturday2024,2024-04-13,Capital-city region,Sydney,100,108,1.08,TRUE,678.3,FALSE,NA
+KogarahCubeDaySunday2024,2024-04-14,Capital-city region,Sydney,100,94,0.94,FALSE,NA,FALSE,NA
+KooyongClockClash2025,2025-08-16,Capital-city region,Melbourne,40,55,1.375,TRUE,70.5,FALSE,15
+KubinginKlemzig2025,2025-08-17,Capital-city region,Adelaide,80,77,0.963,FALSE,NA,FALSE,NA
+LakeMacquarieOpen2025,2025-05-03,Regional,Sydney,80,90,1.125,TRUE,1027.1,FALSE,10
+Launceston2022,2022-01-16,Regional,Hobart,50,35,0.7,FALSE,NA,FALSE,NA
+LauncestonAutumn2023,2023-03-25,Regional,Hobart,50,49,0.98,FALSE,NA,FALSE,NA
+MaitlandSpring2022,2022-11-12,Regional,Sydney,75,99,1.32,TRUE,356.2,FALSE,24
+MaitlandSpring2024,2024-11-23,Regional,Sydney,80,49,0.613,FALSE,NA,FALSE,NA
+MaitlandWinter2023,2023-06-17,Regional,Sydney,90,84,0.933,FALSE,NA,FALSE,NA
+MandurahMadness2025,2025-08-23,Capital-city region,Perth,70,37,0.529,FALSE,NA,FALSE,NA
+MandurahMayhem2023,2023-05-20,Capital-city region,Perth,80,77,0.963,FALSE,NA,FALSE,NA
+MarinoMadness2025,2025-11-30,Capital-city region,Adelaide,80,56,0.7,FALSE,NA,FALSE,NA
+MarrickvilleAutumnSaturday2021,2021-05-22,Capital-city region,Sydney,120,142,1.183,TRUE,278.2,FALSE,22
+MarrickvilleAutumnSunday2021,2021-05-23,Capital-city region,Sydney,120,145,1.208,TRUE,169.6,FALSE,25
+MarrickvilleBigCubesDay2022,2022-10-15,Capital-city region,Sydney,70,76,1.086,TRUE,2519.8,FALSE,NA
+MarrickvilleManyMayOpen2023,2023-05-20,Capital-city region,Sydney,150,211,1.407,TRUE,552.8,FALSE,61
+MarrickvilleMegaMayOpen2023,2023-05-21,Capital-city region,Sydney,150,163,1.087,TRUE,2783.5,FALSE,13
+MarrickvilleMiniMayOpen2023,2023-05-21,Capital-city region,Sydney,150,199,1.327,TRUE,1358.9,FALSE,49
+MarrickvilleMiniOpenAM2022,2022-10-16,Capital-city region,Sydney,150,224,1.493,TRUE,504.8,FALSE,74
+MarrickvilleMiniOpenPM2022,2022-10-16,Capital-city region,Sydney,150,188,1.253,TRUE,1103,FALSE,38
+MarsdeNxN2024,2024-09-21,Capital-city region,Brisbane,240,179,0.746,FALSE,NA,FALSE,NA
+MegaminxinMordialloc2025,2025-09-13,Capital-city region,Melbourne,50,57,1.14,TRUE,404,FALSE,NA
+MelbourneCubeDays2019,2019-11-30,Capital-city region,Melbourne,150,190,1.267,TRUE,84,FALSE,40
+MelbourneCubeDays2022,2022-11-12,Capital-city region,Melbourne,510,555,1.088,TRUE,2139.4,FALSE,45
+MelbourneCubeDays2023,2023-11-11,Capital-city region,Melbourne,420,337,0.802,FALSE,NA,FALSE,NA
+MelbourneCubeDays2024,2024-11-30,Capital-city region,Melbourne,400,260,0.65,FALSE,NA,FALSE,NA
+MelbourneCubeDays2025,2025-11-29,Capital-city region,Melbourne,350,336,0.96,FALSE,NA,FALSE,NA
+MelbourneMentalMania2019,2019-03-02,Capital-city region,Melbourne,50,33,0.66,FALSE,NA,FALSE,NA
+MelbourneMentalMania2022,2022-03-05,Capital-city region,Melbourne,30,35,1.167,TRUE,74,FALSE,NA
+MelbourneMiniSaturday2022,2022-03-05,Capital-city region,Melbourne,120,136,1.133,TRUE,419.5,FALSE,16
+MelbourneMiniSunday2022,2022-03-06,Capital-city region,Melbourne,120,133,1.108,TRUE,402.1,FALSE,13
+MelbourneMinimalMoves2022,2022-04-30,Capital-city region,Melbourne,25,24,0.96,FALSE,NA,FALSE,NA
+MelbourneSummer2019,2019-01-26,Capital-city region,Melbourne,180,144,0.8,FALSE,NA,FALSE,NA
+MelbourneSummer2020,2020-01-25,Capital-city region,Melbourne,250,298,1.192,TRUE,836.1,FALSE,48
+MelbourneSummer2021,2021-01-23,Capital-city region,Melbourne,250,223,0.892,FALSE,NA,FALSE,NA
+MelbourneSummer2022,2022-01-21,Capital-city region,Melbourne,350,279,0.797,FALSE,NA,FALSE,NA
+MelbourneSummer2023,2023-01-20,Capital-city region,Melbourne,400,477,1.192,TRUE,1602.8,FALSE,77
+MelbourneSummer2024,2024-01-19,Capital-city region,Melbourne,400,529,1.322,TRUE,1847.3,FALSE,129
+MelbourneSummer2025,2025-01-24,Capital-city region,Melbourne,400,438,1.095,TRUE,2437.5,FALSE,38
+MelbourneSummer2026,2026-01-24,Capital-city region,Melbourne,400,462,1.155,TRUE,2515,FALSE,62
+MelbourneTrilogySaturday2022,2022-08-13,Capital-city region,Melbourne,120,176,1.467,TRUE,193.3,FALSE,56
+MelbourneTrilogySunday2022,2022-08-14,Capital-city region,Melbourne,120,152,1.267,TRUE,387.2,FALSE,32
+MelbourneTrilogyUpstairs2022,2022-08-13,Capital-city region,Melbourne,35,38,1.086,TRUE,1177.3,FALSE,NA
+MelbourneforKidsSaturday2023,2023-08-26,Capital-city region,Melbourne,120,153,1.275,TRUE,553.5,FALSE,33
+MelbourneforKidsSunday2023,2023-08-27,Capital-city region,Melbourne,120,143,1.192,TRUE,877.5,FALSE,23
+MilduraMadness2023,2023-12-02,Regional,Adelaide,100,57,0.57,FALSE,NA,FALSE,NA
+MountGambierOpen2024,2024-04-21,Regional,Melbourne,25,23,0.92,FALSE,NA,FALSE,NA
+MoveItMidland2024,2024-10-26,Capital-city region,Perth,80,87,1.087,TRUE,1922.6,FALSE,NA
+MoveItMidland2025,2025-11-01,Capital-city region,Perth,80,66,0.825,FALSE,NA,FALSE,NA
+MucheaCubeDay2025,2025-12-06,Capital-city region,Perth,60,29,0.483,FALSE,NA,FALSE,NA
+MundaringMixup2024,2024-06-23,Capital-city region,Perth,70,41,0.586,FALSE,NA,FALSE,NA
+MurdochUniversityOpen2024,2024-02-03,Capital-city region,Perth,220,137,0.623,FALSE,NA,FALSE,NA
+MurdochUniversityOpen2026,2026-09-19,Capital-city region,Perth,140,73,0.521,FALSE,NA,FALSE,NA
+NEMelbourneMarchSaturday2026,2026-03-07,Capital-city region,Melbourne,120,130,1.083,TRUE,1995.5,FALSE,10
+NEMelbourneMarchSunday2026,2026-03-08,Capital-city region,Melbourne,120,94,0.783,FALSE,NA,FALSE,NA
+NSWCentralWestWinter2022,2022-06-19,Regional,Sydney,60,82,1.367,TRUE,120,FALSE,22
+NSWOpen2022,2022-06-11,Capital-city region,Sydney,500,580,1.16,TRUE,1609.8,FALSE,80
+NSWSideStateChampionship2025,2025-05-31,Capital-city region,Sydney,70,61,0.871,FALSE,NA,FALSE,NA
+NSWStateChampionship2025,2025-04-26,Capital-city region,Sydney,400,220,0.55,FALSE,NA,FALSE,NA
+NTChampionship2025,2025-11-08,Capital-city region,Darwin,40,32,0.8,FALSE,NA,FALSE,NA
+NewcastleAutumn2021,2021-05-30,Regional,Sydney,120,74,0.617,FALSE,NA,FALSE,NA
+NewcastleOpen2023,2023-07-23,Regional,Sydney,150,152,1.013,TRUE,1773,FALSE,NA
+NimbleNewborough2024,2024-10-26,Regional,Melbourne,90,75,0.833,FALSE,NA,FALSE,NA
+NimbleNewborough2025,2025-11-15,Regional,Melbourne,100,72,0.72,FALSE,NA,FALSE,NA
+No3x3sinPerth2024,2024-06-01,Capital-city region,Perth,30,38,1.267,TRUE,767.9,FALSE,NA
+NorthPerthFMCDay2025,2025-02-02,Capital-city region,Perth,30,25,0.833,FALSE,NA,FALSE,NA
+NorthSydneyCubeDay2023,2023-03-05,Capital-city region,Sydney,600,621,1.035,TRUE,2363.7,FALSE,21
+NorthSydneyNoSeeing2026,2026-04-18,Capital-city region,Sydney,70,62,0.886,FALSE,NA,FALSE,NA
+NorthTasmaniaSpring2024,2024-10-27,Regional,Hobart,50,37,0.74,FALSE,NA,FALSE,NA
+NorthTasmaniaSpring2025,2025-09-20,Regional,Hobart,50,34,0.68,FALSE,NA,FALSE,NA
+NorthernAdelaideCubing2024,2024-11-24,Capital-city region,Adelaide,100,70,0.7,FALSE,NA,FALSE,NA
+NorthsideCubeDay2019,2019-01-12,Capital-city region,Brisbane,110,140,1.273,TRUE,693.9,FALSE,30
+NorthsideCubeDays2020,2020-01-11,Capital-city region,Brisbane,130,187,1.438,TRUE,381.5,FALSE,57
+NorthsideDuologyPart12022,2022-01-07,Capital-city region,Brisbane,100,78,0.78,FALSE,NA,FALSE,NA
+NorthsideDuologyPart22022,2022-01-08,Capital-city region,Brisbane,100,117,1.17,TRUE,145.2,FALSE,17
+NorthsideSpringSaturday2022,2022-11-26,Capital-city region,Brisbane,120,151,1.258,TRUE,202.2,FALSE,31
+NorthsideSpringSunday2022,2022-11-27,Capital-city region,Brisbane,120,146,1.217,TRUE,635.9,FALSE,26
+NxNjoyableSydneyGathering2026,2026-03-28,Capital-city region,Sydney,150,204,1.36,TRUE,75.7,FALSE,54
+OC2022,2022-12-15,Capital-city region,Melbourne,800,1004,1.255,TRUE,4428.1,FALSE,204
+OC2024,2024-12-19,Capital-city region,Perth,700,417,0.596,FALSE,NA,FALSE,NA
+OddDayinSydney2019,2019-11-10,Capital-city region,Sydney,180,163,0.906,FALSE,NA,FALSE,NA
+OddSidesinSydney2024,2024-12-07,Capital-city region,Sydney,70,74,1.057,TRUE,546.7,FALSE,NA
+Only3x3sinPerth2024,2024-05-25,Capital-city region,Perth,140,66,0.471,FALSE,NA,FALSE,NA
+OnlyCubesinScarborough2026,2026-03-28,Capital-city region,Perth,60,70,1.167,TRUE,1298.8,FALSE,10
+OntheSideSouthAustralia2023,2023-03-11,Capital-city region,Adelaide,65,65,1,TRUE,1250.8,FALSE,NA
+OntheSideSouthAustralia2024,2024-02-10,Capital-city region,Adelaide,75,56,0.747,FALSE,NA,FALSE,NA
+Orange2026,2026-04-11,Regional,Sydney,100,63,0.63,FALSE,NA,FALSE,NA
+OrangeZest2023,2023-01-08,Regional,Sydney,120,61,0.508,FALSE,NA,FALSE,NA
+PBQatUTS2023,2023-04-30,Capital-city region,Sydney,30,37,1.233,TRUE,46.5,FALSE,NA
+Perth10YearAnniversary2021,2021-12-11,Capital-city region,Perth,80,87,1.087,TRUE,447.1,FALSE,NA
+PerthAutumn2022,2022-03-19,Capital-city region,Perth,75,100,1.333,TRUE,232.2,FALSE,25
+PerthAutumn2023,2023-04-29,Capital-city region,Perth,140,186,1.329,TRUE,2227.9,FALSE,46
+PerthAutumn2024,2024-05-11,Capital-city region,Perth,180,68,0.378,FALSE,NA,FALSE,NA
+PerthAutumn2025,2025-05-24,Capital-city region,Perth,140,87,0.621,FALSE,NA,FALSE,NA
+PerthFMCDay2023,2023-02-18,Capital-city region,Perth,15,21,1.4,TRUE,11.1,FALSE,NA
+PerthFMCDay2026,2026-10-03,Capital-city region,Perth,30,13,0.433,FALSE,NA,FALSE,NA
+PerthFavouritesEvening2026,2026-04-21,Capital-city region,Perth,30,38,1.267,TRUE,462.3,FALSE,NA
+PerthLateNight2020,2020-08-09,Capital-city region,Perth,60,95,1.583,TRUE,72.7,FALSE,35
+PerthPuzzleMarathon2022,2022-08-06,Capital-city region,Perth,100,142,1.42,TRUE,1558.6,FALSE,42
+PerthPuzzleParty2019,2019-01-12,Capital-city region,Perth,80,56,0.7,FALSE,NA,FALSE,NA
+PerthPuzzleParty2020,2020-01-04,Capital-city region,Perth,80,79,0.988,FALSE,NA,FALSE,NA
+PerthPuzzleParty2024,2024-01-13,Capital-city region,Perth,150,96,0.64,FALSE,NA,FALSE,NA
+PerthPuzzleParty2025,2025-01-18,Capital-city region,Perth,140,75,0.536,FALSE,NA,FALSE,NA
+PerthPuzzleParty2026,2026-05-16,Capital-city region,Perth,70,64,0.914,FALSE,NA,FALSE,NA
+PerthPuzzlePyjamaParty2024,2024-04-27,Capital-city region,Perth,120,67,0.558,FALSE,NA,FALSE,NA
+PerthSummer2023,2023-01-21,Capital-city region,Perth,150,167,1.113,TRUE,1418.4,FALSE,17
+PerthSummer2026,2026-01-31,Capital-city region,Perth,150,94,0.627,FALSE,NA,FALSE,NA
+PerthTimeTrial2023,2023-07-01,Capital-city region,Perth,140,103,0.736,FALSE,NA,FALSE,NA
+PerthTimeTrial2024,2024-08-10,Capital-city region,Perth,120,66,0.55,FALSE,NA,FALSE,NA
+PerthTimeTrial2025,2025-10-11,Capital-city region,Perth,80,51,0.637,FALSE,NA,FALSE,NA
+PerthTimeTrial2026,2026-05-31,Capital-city region,Perth,80,58,0.725,FALSE,NA,FALSE,NA
+PerthUndergroundOpen2022,2022-01-29,Capital-city region,Perth,100,112,1.12,TRUE,1158.5,FALSE,12
+PerthWinter2024,2024-07-27,Capital-city region,Perth,150,115,0.767,FALSE,NA,FALSE,NA
+PerthWinter2025,2025-06-21,Capital-city region,Perth,140,66,0.471,FALSE,NA,FALSE,NA
+PerthWinter2026,2026-08-01,Capital-city region,Perth,150,88,0.587,FALSE,NA,FALSE,NA
+PinjarraPrideandPuzzles2024,2024-06-16,Capital-city region,Perth,80,24,0.3,FALSE,NA,FALSE,NA
+PinjarraPuzzleParty2021,2021-01-17,Capital-city region,Perth,50,21,0.42,FALSE,NA,FALSE,NA
+PinjarraPuzzleParty2023,2023-07-16,Capital-city region,Perth,50,35,0.7,FALSE,NA,FALSE,NA
+PlayfordCubing2023,2023-11-04,Capital-city region,Adelaide,150,105,0.7,FALSE,NA,FALSE,NA
+PleaseBeFinishedBrisbane2025,2025-08-30,Capital-city region,Brisbane,50,58,1.16,TRUE,1040.2,FALSE,NA
+PleaseBeFinishedBrisbane2026,2026-03-14,Capital-city region,Brisbane,50,48,0.96,FALSE,NA,FALSE,NA
+PleaseBeQuietBrisbane2021,2021-04-10,Capital-city region,Brisbane,30,22,0.733,FALSE,NA,FALSE,NA
+PleaseBeQuietBrisbane2022,2022-09-24,Capital-city region,Brisbane,30,29,0.967,FALSE,NA,FALSE,NA
+PleaseBeQuietBrisbane2023,2023-04-01,Capital-city region,Brisbane,30,45,1.5,TRUE,2.3,FALSE,15
+PleaseBeQuietBrisbane2024,2024-04-27,Capital-city region,Brisbane,45,55,1.222,TRUE,258.8,FALSE,10
+PleaseBeSolvedPadbury2024,2024-09-01,Capital-city region,Perth,30,26,0.867,FALSE,NA,FALSE,NA
+PuzzlingPakenham2019,2019-10-26,Capital-city region,Melbourne,70,156,2.229,TRUE,183.5,FALSE,86
+PuzzlingPakenhamSaturday2025,2025-09-27,Capital-city region,Melbourne,120,108,0.9,FALSE,NA,FALSE,NA
+PuzzlingPakenhamSaturday2026,2026-09-26,Capital-city region,Melbourne,120,100,0.833,FALSE,NA,FALSE,NA
+PuzzlingPakenhamSunday2025,2025-09-28,Capital-city region,Melbourne,120,83,0.692,FALSE,NA,FALSE,NA
+PuzzlingPakenhamSunday2026,2026-09-27,Capital-city region,Melbourne,120,104,0.867,FALSE,NA,FALSE,NA
+PuzzlingParramatta2024,2024-08-10,Capital-city region,Sydney,85,116,1.365,TRUE,158.1,FALSE,31
+PuzzlingParramatta2026,2026-05-23,Capital-city region,Sydney,85,129,1.518,TRUE,25.8,FALSE,44
+PuzzlingPinjarra2021,2021-11-21,Capital-city region,Perth,80,89,1.112,TRUE,1298.6,FALSE,NA
+QLDQuietStateChamps2025,2025-05-17,Capital-city region,Brisbane,40,20,0.5,FALSE,NA,FALSE,NA
+QLDStateChampionship2025,2025-04-11,Capital-city region,Brisbane,280,220,0.786,FALSE,NA,FALSE,NA
+QUTQubeChallengeSaturday2023,2023-11-25,Capital-city region,Brisbane,80,100,1.25,TRUE,433.4,FALSE,20
+QUTQubeChallengeSunday2023,2023-11-26,Capital-city region,Brisbane,80,96,1.2,TRUE,625.4,FALSE,16
+QueenslandOpen2022,2022-07-23,Capital-city region,Brisbane,350,333,0.951,FALSE,NA,FALSE,NA
+QueenslandOpen2023,2023-07-08,Capital-city region,Brisbane,320,370,1.156,TRUE,2138.3,FALSE,50
+QueenslandOpen2024,2024-06-28,Capital-city region,Brisbane,290,314,1.083,TRUE,2325.6,FALSE,24
+QueenslandOpen2026,2026-06-27,Capital-city region,Brisbane,280,298,1.064,TRUE,3019.9,FALSE,18
+QuintilianCubeOff2023,2023-06-17,Capital-city region,Perth,80,78,0.975,FALSE,NA,FALSE,NA
+RockinghamRapid2021,2021-09-12,Capital-city region,Perth,100,95,0.95,FALSE,NA,FALSE,NA
+RockinghamRapid2022,2022-05-07,Capital-city region,Perth,75,78,1.04,TRUE,434.8,FALSE,NA
+RunawayBayMaySaturday2023,2023-05-27,Capital-city region,Brisbane,120,159,1.325,TRUE,255.6,FALSE,39
+RunawayBayMaySunday2023,2023-05-28,Capital-city region,Brisbane,120,108,0.9,FALSE,NA,FALSE,NA
+RunawayBaySaturdayChallenge2022,2022-09-03,Capital-city region,Brisbane,120,150,1.25,TRUE,790.8,FALSE,30
+RunawayBaySundayChallenge2022,2022-09-04,Capital-city region,Brisbane,120,142,1.183,TRUE,1261.5,FALSE,22
+SASideStateChampionship2025,2025-05-18,Capital-city region,Adelaide,40,16,0.4,FALSE,NA,FALSE,NA
+SASprintShowdown2024,2024-05-04,Capital-city region,Adelaide,70,78,1.114,TRUE,2837.9,FALSE,NA
+SAStateChampionship2021,2021-06-05,Capital-city region,Adelaide,100,105,1.05,TRUE,1105,FALSE,NA
+SAStateChampionship2025,2025-07-19,Capital-city region,Adelaide,120,101,0.842,FALSE,NA,FALSE,NA
+ScarboroughSkewbOff2023,2023-08-20,Capital-city region,Perth,70,52,0.743,FALSE,NA,FALSE,NA
+ShowgroundShowdown2021,2021-01-30,Capital-city region,Perth,120,133,1.108,TRUE,1359.2,FALSE,13
+SideNBlindNarreWarren2023,2023-06-03,Capital-city region,Melbourne,60,66,1.1,TRUE,911.6,FALSE,NA
+SideNBlindNarreWarren2024,2024-08-03,Capital-city region,Melbourne,60,46,0.767,FALSE,NA,FALSE,NA
+SideNBlindNarreWarren2026,2026-06-13,Capital-city region,Melbourne,80,49,0.613,FALSE,NA,FALSE,NA
+SilentSouthAustralia2023,2023-08-26,Capital-city region,Adelaide,45,40,0.889,FALSE,NA,FALSE,NA
+SilentSydney2022,2022-03-27,Capital-city region,Sydney,40,33,0.825,FALSE,NA,FALSE,NA
+SimpleSolutionSA2021,2021-09-19,Capital-city region,Adelaide,20,17,0.85,FALSE,NA,FALSE,NA
+SimpleSydneySaturday2023,2023-09-09,Capital-city region,Sydney,150,168,1.12,TRUE,691.5,FALSE,18
+SimpleSydneySunday2023,2023-09-10,Capital-city region,Sydney,150,171,1.14,TRUE,574.8,FALSE,21
+SlowDownAdelaide2024,2024-09-21,Capital-city region,Adelaide,32,33,1.031,TRUE,2462,FALSE,NA
+SlowDownPerth2019,2019-04-22,Capital-city region,Perth,35,21,0.6,FALSE,NA,FALSE,NA
+SlowDownPerth2020,2020-03-15,Capital-city region,Perth,30,27,0.9,FALSE,NA,FALSE,NA
+SlowDownPerth2022,2022-06-19,Capital-city region,Perth,30,27,0.9,FALSE,NA,FALSE,NA
+SlowDownSwanbourne2021,2021-09-19,Capital-city region,Perth,40,14,0.35,FALSE,NA,FALSE,NA
+SolvingInSale2024,2024-04-06,Regional,Melbourne,80,96,1.2,TRUE,938.6,FALSE,16
+SolvinginSale2019,2019-04-13,Regional,Melbourne,80,56,0.7,FALSE,NA,FALSE,NA
+SolvinginSale2021,2021-04-10,Regional,Melbourne,60,64,1.067,TRUE,357.7,FALSE,NA
+SolvinginSale2022,2022-04-09,Regional,Melbourne,75,80,1.067,TRUE,950.6,FALSE,NA
+SolvinginSale2023,2023-04-15,Regional,Melbourne,80,107,1.337,TRUE,1849.8,FALSE,27
+SolvinginSale2025,2025-04-11,Regional,Melbourne,80,102,1.275,TRUE,458.4,FALSE,22
+SolvinginSale2026,2026-04-17,Regional,Melbourne,80,96,1.2,TRUE,1261.5,FALSE,16
+Sorell2022,2022-01-14,Capital-city region,Hobart,75,58,0.773,FALSE,NA,FALSE,NA
+SouthAustralianOpen2022,2022-11-05,Capital-city region,Adelaide,150,166,1.107,TRUE,854.5,FALSE,16
+SouthAustralianOpen2023,2023-09-02,Capital-city region,Adelaide,200,131,0.655,FALSE,NA,FALSE,NA
+SouthCoastSpring2022,2022-11-19,Capital-city region,Sydney,70,116,1.657,TRUE,21,FALSE,46
+SouthPerthCubeDay2024,2024-03-23,Capital-city region,Perth,140,90,0.643,FALSE,NA,FALSE,NA
+SouthPerthFMCDay2025,2025-02-01,Capital-city region,Perth,20,25,1.25,TRUE,1371.8,FALSE,NA
+SouthPerthSummer2020,2020-12-19,Capital-city region,Perth,100,118,1.18,TRUE,217.1,FALSE,18
+SparkMelbourneAutumnSat2026,2026-05-23,Capital-city region,Melbourne,150,130,0.867,FALSE,NA,FALSE,NA
+SparkMelbourneAutumnSun2026,2026-05-24,Capital-city region,Melbourne,150,108,0.72,FALSE,NA,FALSE,NA
+SparkMelbourneFebruary2025,2025-02-22,Capital-city region,Melbourne,130,145,1.115,TRUE,289.3,FALSE,15
+SparkMelbourneJuly2025,2025-07-26,Capital-city region,Melbourne,250,289,1.156,TRUE,930.9,FALSE,39
+SparkMelbourneSaturday2024,2024-10-05,Capital-city region,Melbourne,100,122,1.22,TRUE,235.7,FALSE,22
+SparkMelbourneSunday2024,2024-10-06,Capital-city region,Melbourne,100,108,1.08,TRUE,676.7,FALSE,NA
+SpeedcubingatSeaworks2023,2023-03-18,Capital-city region,Melbourne,500,517,1.034,TRUE,3147,FALSE,17
+SpeedySouthPerth2020,2020-11-14,Capital-city region,Perth,100,141,1.41,TRUE,48.7,FALSE,41
+SpeedySouthPerth2023,2023-11-19,Capital-city region,Perth,150,124,0.827,FALSE,NA,FALSE,NA
+SpeedySouthport2024,2024-11-16,Capital-city region,Brisbane,200,176,0.88,FALSE,NA,FALSE,NA
+SpeedySouthport2025,2025-11-22,Capital-city region,Brisbane,160,164,1.025,TRUE,3661.3,FALSE,NA
+StOliversSpeedySaturday2023,2023-05-20,Capital-city region,Melbourne,100,110,1.1,TRUE,935.6,FALSE,10
+StOliversSpeedySunday2023,2023-05-21,Capital-city region,Melbourne,100,111,1.11,TRUE,651.4,FALSE,11
+SteadySorrento2022,2022-12-04,Capital-city region,Perth,50,36,0.72,FALSE,NA,FALSE,NA
+SteadySwanbourne2021,2021-06-26,Capital-city region,Perth,80,27,0.338,FALSE,NA,FALSE,NA
+SurfCoastCubing2019,2019-12-29,Capital-city region,Melbourne,70,74,1.057,TRUE,1131.6,FALSE,NA
+SydneyCubingDecathlon2026,2026-10-02,Capital-city region,Sydney,150,201,1.34,TRUE,411.7,FALSE,51
+SydneyOpen2019,2019-12-14,Capital-city region,Sydney,180,232,1.289,TRUE,571,FALSE,52
+SydneyReOpenSaturday2021,2021-03-27,Capital-city region,Sydney,100,123,1.23,TRUE,113.2,FALSE,23
+SydneyReOpenSunday2021,2021-03-28,Capital-city region,Sydney,100,141,1.41,TRUE,25.4,FALSE,41
+SydneySpringSaturday2024,2024-11-16,Capital-city region,Sydney,115,132,1.148,TRUE,551,FALSE,17
+SydneySpringSunday2024,2024-11-17,Capital-city region,Sydney,115,118,1.026,TRUE,739,FALSE,NA
+SydneySquare1v12023,2023-06-03,Capital-city region,Sydney,70,78,1.114,TRUE,410.7,FALSE,NA
+SydneySummer2023,2023-12-16,Capital-city region,Sydney,600,394,0.657,FALSE,NA,FALSE,NA
+SydneyUltimateClockClash2023,2023-03-26,Capital-city region,Sydney,80,95,1.188,TRUE,470.1,FALSE,15
+SydneyWinterSaturday2022,2022-08-27,Capital-city region,Sydney,115,151,1.313,TRUE,479,FALSE,36
+SydneyWinterSunday2022,2022-08-28,Capital-city region,Sydney,115,162,1.409,TRUE,423.3,FALSE,47
+TASSideStateChampionship2025,2025-06-14,Capital-city region,Hobart,30,30,1,TRUE,916.6,FALSE,NA
+TASStateChampionship2021,2021-05-22,Capital-city region,Hobart,75,79,1.053,TRUE,696.7,FALSE,NA
+TASStateChampionship2025,2025-04-26,Capital-city region,Hobart,50,49,0.98,FALSE,NA,FALSE,NA
+TakeYourTimeBrisbane2026,2026-09-19,Capital-city region,Brisbane,80,101,1.262,TRUE,580.4,FALSE,21
+TakeYourTimeSydney2024,2024-10-12,Capital-city region,Sydney,90,101,1.122,TRUE,75.8,FALSE,11
+TakeYourTimeSydney2025,2025-10-11,Capital-city region,Sydney,90,104,1.156,TRUE,1607.3,FALSE,14
+TakeYourTimeSydney2026,2026-09-12,Capital-city region,Sydney,85,101,1.188,TRUE,187.6,FALSE,16
+TamarValleyTurning2026,2026-05-03,Regional,Hobart,50,21,0.42,FALSE,NA,FALSE,NA
+TasmanianOpen2022,2022-03-25,Capital-city region,Hobart,75,63,0.84,FALSE,NA,FALSE,NA
+TassieSummer2023,2023-01-08,Capital-city region,Hobart,60,80,1.333,TRUE,668.6,FALSE,20
+TassieSummer2024,2024-01-13,Capital-city region,Hobart,70,83,1.186,TRUE,405.2,FALSE,13
+TassieSummer2025,2025-01-04,Capital-city region,Hobart,80,47,0.588,FALSE,NA,FALSE,NA
+TassieSummer2026,2026-01-17,Capital-city region,Hobart,80,66,0.825,FALSE,NA,FALSE,NA
+TassieTwistOff2022,2022-08-20,Capital-city region,Hobart,80,64,0.8,FALSE,NA,FALSE,NA
+TassieWinter2023,2023-06-17,Capital-city region,Hobart,70,63,0.9,FALSE,NA,FALSE,NA
+TheBigCubeMelbourne2023,2023-10-14,Capital-city region,Melbourne,100,114,1.14,TRUE,669.1,FALSE,14
+TheBigCubeMelbourne2024,2024-07-20,Capital-city region,Melbourne,120,156,1.3,TRUE,766,FALSE,36
+TheBigCubeMelbourne2025,2025-10-11,Capital-city region,Melbourne,120,135,1.125,TRUE,878.1,FALSE,15
+ToowoombaCarnival2026,2026-08-08,Regional,Brisbane,80,110,1.375,TRUE,692.7,FALSE,30
+ToowoombaTwistOff2025,2025-06-28,Regional,Brisbane,80,86,1.075,TRUE,1296.7,FALSE,NA
+TramshedsIIIAugustSaturday2024,2024-08-24,Capital-city region,Sydney,115,155,1.348,TRUE,616,FALSE,40
+TramshedsIIIAugustSunday2024,2024-08-25,Capital-city region,Sydney,115,131,1.139,TRUE,982,FALSE,16
+TramshedsIIMaySaturday2024,2024-05-18,Capital-city region,Sydney,115,148,1.287,TRUE,935.9,FALSE,33
+TramshedsIIMaySunday2024,2024-05-19,Capital-city region,Sydney,115,137,1.191,TRUE,1129.4,FALSE,22
+TramshedsINewcomerSat2024,2024-03-02,Capital-city region,Sydney,115,141,1.226,TRUE,737.1,FALSE,26
+TramshedsINewcomerSun2024,2024-03-03,Capital-city region,Sydney,115,126,1.096,TRUE,956.1,FALSE,11
+TramshedsIVSummerSaturday2025,2025-02-08,Capital-city region,Sydney,115,140,1.217,TRUE,885.1,FALSE,25
+TramshedsIVSummerSunday2025,2025-02-09,Capital-city region,Sydney,115,105,0.913,FALSE,NA,FALSE,NA
+TramshedsIXJuneSaturday2026,2026-06-06,Capital-city region,Sydney,115,158,1.374,TRUE,256.4,FALSE,43
+TramshedsIXJuneSunday2026,2026-06-07,Capital-city region,Sydney,115,150,1.304,TRUE,675.9,FALSE,35
+TramshedsSeriesSaturday2022,2022-02-05,Capital-city region,Sydney,100,154,1.54,TRUE,291.7,FALSE,54
+TramshedsSeriesSunday2022,2022-02-13,Capital-city region,Sydney,100,142,1.42,TRUE,237.7,FALSE,42
+TramshedsVAutumnSaturday2025,2025-05-17,Capital-city region,Sydney,115,155,1.348,TRUE,1251,FALSE,40
+TramshedsVAutumnSunday2025,2025-05-18,Capital-city region,Sydney,115,130,1.13,TRUE,1443.5,FALSE,15
+TramshedsVIIISummerSides2026,2026-02-01,Capital-city region,Sydney,80,121,1.512,TRUE,548.2,FALSE,41
+TramshedsVIISpringSat2025,2025-11-08,Capital-city region,Sydney,115,157,1.365,TRUE,529.4,FALSE,42
+TramshedsVIISpringSun2025,2025-11-09,Capital-city region,Sydney,115,146,1.27,TRUE,1058,FALSE,31
+TramshedsVIWinterSat2025,2025-08-23,Capital-city region,Sydney,115,156,1.357,TRUE,927.5,FALSE,41
+TramshedsVIWinterSunday2025,2025-08-24,Capital-city region,Sydney,115,151,1.313,TRUE,1156.1,FALSE,36
+TramshedsXWinterSaturday2026,2026-08-29,Capital-city region,Sydney,115,154,1.339,TRUE,231.5,FALSE,39
+TramshedsXWinterSunday2026,2026-08-30,Capital-city region,Sydney,115,163,1.417,TRUE,357,FALSE,48
+TryCubingBurnie2024,2024-03-10,Regional,Hobart,40,32,0.8,FALSE,NA,FALSE,NA
+TryCubingHobart2024,2024-04-06,Capital-city region,Hobart,50,57,1.14,TRUE,818.1,FALSE,NA
+TryCubingSaintHelens2024,2024-03-24,Regional,Hobart,40,21,0.525,FALSE,NA,FALSE,NA
+TryCubinginStHelens2026,2026-01-15,Regional,Hobart,30,17,0.567,FALSE,NA,FALSE,NA
+TurnAroundTassie2020,2020-12-12,Capital-city region,Hobart,70,71,1.014,TRUE,405.9,FALSE,NA
+TurninginTownsville2021,2021-05-08,Regional,Brisbane,75,62,0.827,FALSE,NA,FALSE,NA
+TurninginTownsville2022,2022-08-06,Regional,Brisbane,80,53,0.662,FALSE,NA,FALSE,NA
+TurninginTownsville2023,2023-01-14,Regional,Brisbane,100,46,0.46,FALSE,NA,FALSE,NA
+TurninginTownsville2024,2024-05-18,Regional,Brisbane,100,31,0.31,FALSE,NA,FALSE,NA
+UCubeatUQSaturday2023,2023-09-02,Capital-city region,Brisbane,100,124,1.24,TRUE,469.8,FALSE,24
+UCubeatUQSunday2023,2023-09-03,Capital-city region,Brisbane,100,103,1.03,TRUE,1406.1,FALSE,NA
+UnleySpring2024,2024-11-02,Capital-city region,Adelaide,75,85,1.133,TRUE,879.3,FALSE,10
+VICSideStateChampionship2025,2025-06-14,Capital-city region,Melbourne,80,67,0.838,FALSE,NA,FALSE,NA
+VICStateChampionship2025,2025-05-31,Capital-city region,Melbourne,367,422,1.15,TRUE,2684.5,FALSE,55
+VictorianOpen2022,2022-06-04,Capital-city region,Melbourne,350,402,1.149,TRUE,841.9,FALSE,52
+VictorianOpen2023,2023-07-01,Capital-city region,Melbourne,500,574,1.148,TRUE,2065.9,FALSE,74
+WAOpen2022,2022-06-25,Capital-city region,Perth,160,101,0.631,FALSE,NA,FALSE,NA
+WAOpen2023,2023-08-26,Capital-city region,Perth,220,167,0.759,FALSE,NA,FALSE,NA
+WASideStateChampionship2025,2025-09-06,Capital-city region,Perth,40,35,0.875,FALSE,NA,FALSE,NA
+WAStateChampionship2021,2021-07-17,Capital-city region,Perth,140,158,1.129,TRUE,600.5,FALSE,18
+WAStateChampionship2025,2025-09-13,Capital-city region,Perth,140,107,0.764,FALSE,NA,FALSE,NA
+WaggaAutumn2026,2026-05-09,Regional,Canberra,40,43,1.075,TRUE,721.7,FALSE,NA
+WarmUpCanberra2019,2019-07-03,Capital-city region,Canberra,130,73,0.562,FALSE,NA,FALSE,NA
+WarmUpMandurah2022,2022-09-03,Capital-city region,Perth,70,61,0.871,FALSE,NA,FALSE,NA
+WarmUpSydney2019,2019-07-06,Capital-city region,Sydney,220,283,1.286,TRUE,1069.6,FALSE,63
+WarmUpSydneySaturday2023,2023-07-15,Capital-city region,Sydney,115,135,1.174,TRUE,240.6,FALSE,20
+WarmUpSydneySunday2023,2023-07-16,Capital-city region,Sydney,115,124,1.078,TRUE,674.7,FALSE,NA
+WestMelbourneOpen2026,2026-04-11,Capital-city region,Melbourne,400,235,0.588,FALSE,NA,FALSE,NA
+WestcoastWoodvaleWeekends2019,2019-09-28,Capital-city region,Perth,80,88,1.1,TRUE,862.6,FALSE,NA
+WideBayCubing2024,2024-04-06,Regional,Brisbane,100,88,0.88,FALSE,NA,FALSE,NA
+WideBayCubing2025,2025-07-12,Regional,Brisbane,80,93,1.163,TRUE,3183.9,FALSE,13
+WideBayCubing2026,2026-04-18,Regional,Brisbane,80,41,0.512,FALSE,NA,FALSE,NA
+WindingDowninWilletton2026,2026-08-15,Capital-city region,Perth,80,80,1,TRUE,2016.6,FALSE,NA
+WonderfulWilliamstown2022,2022-04-23,Capital-city region,Melbourne,350,365,1.043,TRUE,1298,FALSE,15
+YorkCubeDay2021,2021-01-10,Capital-city region,Perth,70,52,0.743,FALSE,NA,FALSE,NA

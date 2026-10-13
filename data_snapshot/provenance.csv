@@ -1,0 +1,3 @@
+export,file,export_date_utc,format_version,zipped_bytes,source_url
+WCA Results Export v2 (TSV),WCA_export_v2_286_20261013T065024Z.tsv.zip,2026-10-13 06:50:24 UTC,2.0.2,380907657,https://www.worldcubeassociation.org/export/results/v2/tsv
+WCA Developer Database Export (SQL),wca-developer-database-dump.zip,2026-10-13 0:35:55 UTC,MySQL 8.4 dump,832374626,https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip

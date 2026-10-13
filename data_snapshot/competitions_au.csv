@@ -1,0 +1,564 @@
+competition_id,city_name,state,start_date,end_date,latitude,longitude,nearest_capital,dist_capital_km,regional,n_competitors,e2sfca_ratio_150,announced_lead_days
+AbbotsfordBegins2022,"Melbourne, Victoria",Victoria,2022-07-03,2022-07-03,-37.80463,144.99309,Melbourne,2.8,0,26,0.03893,39
+AbbotsfordBigCubeDay2022,"Melbourne, Victoria",Victoria,2022-07-17,2022-07-17,-37.80463,144.99309,Melbourne,2.8,0,22,0.03253,53
+AbbotsfordBlindChallenge2022,"Melbourne, Victoria",Victoria,2022-07-10,2022-07-10,-37.80463,144.99309,Melbourne,2.8,0,11,0.01631,46
+ACTChampionship2025,"Canberra, Australian Capital Territory",Australian Capital Territory,2025-12-06,2025-12-07,-35.20627,149.04481,Canberra,11.4,0,76,76,61
+AdelaideAutumn2022,"Adelaide, South Australia",South Australia,2022-05-22,2022-05-22,-34.95085,138.59053,Adelaide,2.7,0,104,0.86708,70
+AdelaideAutumn2023,"Adelaide, South Australia",South Australia,2023-05-21,2023-05-21,-35.00348,138.51941,Adelaide,11.2,0,142,0.58007,111
+AdelaideAutumn2026,"Adelaide, South Australia",South Australia,2026-04-12,2026-04-12,-34.79596,138.50093,Adelaide,17.3,0,58,0.3643,73
+AdelaideSpring2026,"Adelaide, South Australia",South Australia,2026-10-03,2026-10-03,-34.95065,138.60846,Adelaide,2.6,0,64,0.44136,59
+AdelaideSummer2016,"Ethelton, South Australia",South Australia,2016-01-23,2016-01-23,-34.85149,138.49532,Adelaide,12.9,0,16,16,39
+AdelaideSummer2017,"Adelaide, South Australia",South Australia,2017-01-21,2017-01-21,-34.91508,138.59946,Adelaide,1.5,0,68,9.78279,70
+AdelaideSummer2018,"Adelaide, South Australia",South Australia,2018-01-13,2018-01-14,-34.91552,138.59611,Adelaide,1.5,0,75,1.70455,34
+AdelaideSummer2019,"Adelaide, South Australia",South Australia,2019-01-19,2019-01-20,-34.91552,138.59611,Adelaide,1.5,0,88,2.31601,95
+AdelaideSummer2020,"Adelaide, South Australia",South Australia,2020-01-11,2020-01-11,-34.9157,138.59512,Adelaide,1.5,0,98,1.48938,72
+AdelaideSummer2022,"Adelaide, South Australia",South Australia,2022-01-15,2022-01-16,-34.92267,138.61896,Adelaide,1.8,0,76,0.61344,55
+AdelaideSummer2023,"Adelaide, South Australia",South Australia,2023-01-28,2023-01-29,-34.92359,138.61961,Adelaide,1.8,0,166,1.09115,103
+AdelaideSummer2024,"Adelaide, South Australia",South Australia,2024-01-13,2024-01-14,-34.92359,138.61961,Adelaide,1.8,0,108,0.37861,117
+AdelaideSummer2025,"Adelaide, South Australia",South Australia,2025-01-10,2025-01-12,-34.92087,138.61914,Adelaide,1.9,0,98,0.35622,87
+AdelaideSummer2026,"Adelaide, South Australia",South Australia,2026-01-10,2026-01-11,-35.00183,138.57389,Adelaide,8.5,0,100,0.58443,100
+AdelaideTwinSaturday2021,"Adelaide, South Australia",South Australia,2021-01-16,2021-01-16,-34.94249,138.5958,Adelaide,1.6,0,39,39,46
+AdelaideTwinSunday2021,"Adelaide, South Australia",South Australia,2021-01-17,2021-01-17,-34.94249,138.5958,Adelaide,1.6,0,39,1,47
+AdelaideWinter2018,"Adelaide, South Australia",South Australia,2018-07-14,2018-07-14,-34.92555,138.58696,Adelaide,1.3,0,51,0.94454,31
+AdelaideWinterSaturday2023,"Adelaide, South Australia",South Australia,2023-06-24,2023-06-24,-34.95101,138.59063,Adelaide,2.7,0,58,0.20863,56
+AdelaideWinterSunday2023,"Adelaide, South Australia",South Australia,2023-06-25,2023-06-25,-34.95101,138.59063,Adelaide,2.7,0,55,0.18985,57
+AlbanySummerSolving2022,"Albany, Western Australia",Western Australia,2022-02-05,2022-02-05,-34.98513,117.90271,Perth,387.2,1,27,27,123
+AlbanySummerSolving2023,"Albany, Western Australia",Western Australia,2023-01-28,2023-01-28,-34.98513,117.90271,Perth,387.2,1,26,3.25,76
+AlbanySummerSolving2024,"Albany, Western Australia",Western Australia,2024-01-27,2024-01-27,-34.98513,117.90271,Perth,387.2,1,43,4.77778,154
+AlbanySummerSolving2025,"Albany, Western Australia",Western Australia,2025-01-25,2025-01-25,-34.9861,117.90264,Perth,387.3,1,25,1.5625,60
+AllBlindAdelaide2026,"Adelaide, South Australia",South Australia,2026-03-29,2026-03-29,-34.86538,138.66271,Adelaide,9,0,8,0.05024,62
+AllWelcomeAdelaide2024,"Adelaide, South Australia",South Australia,2024-03-09,2024-03-09,-34.95085,138.59053,Adelaide,2.7,0,91,0.34274,93
+AllWelcomeAdelaide2025,"Adelaide, South Australia",South Australia,2025-03-22,2025-03-22,-34.95076,138.60839000000001,Adelaide,2.6,0,70,0.31475,44
+AltonaAlgorithms2019,"Melbourne, Victoria",Victoria,2019-10-05,2019-10-06,-37.86366,144.81099,Melbourne,14.5,0,227,0.2688,113
+AltonaAlgorithms2024,"Melbourne, Victoria",Victoria,2024-03-02,2024-03-03,-37.83197,144.82575,Melbourne,12.2,0,263,0.23271,74
+AltonaAlgorithmsAttempt22021,"Melbourne, Victoria",Victoria,2021-04-17,2021-04-18,-37.86371,144.81097,Melbourne,14.5,0,176,0.86453,49
+ApolloBayCubing2022,"Apollo Bay, Victoria",Victoria,2022-09-10,2022-09-11,-38.76003,143.67131,Melbourne,154.4,1,56,0.80538,99
+ApolloBayCubing2023,"Apollo Bay, Victoria",Victoria,2023-05-13,2023-05-14,-38.75264,143.66046,Melbourne,154.5,1,68,0.40847,71
+ApolloBayCubing2024,"Apollo Bay, Victoria",Victoria,2024-06-15,2024-06-16,-38.76003,143.67131,Melbourne,154.4,1,53,0.65691,78
+ApolloBayCubing2025,"Apollo Bay, Victoria",Victoria,2025-10-18,2025-10-19,-38.75263,143.66046,Melbourne,154.5,1,43,0.81726,96
+AprilinAliceSprings2021,"Alice Springs, Northern Territory",Northern Territory,2021-04-04,2021-04-04,-23.70661,133.83265,Darwin,1290.7,1,9,9,38
+ASFASpeedcubing2018,"Melbourne, Victoria",Victoria,2018-03-17,2018-03-18,-37.82421,144.9561,Melbourne,1.3,0,77,0.37137,45
+AustralianNationals2010,"Melbourne, Victoria",Victoria,2010-09-04,2010-09-05,-37.80905,144.96358,Melbourne,0.5,0,39,0.86672,33
+AustralianNationals2011,"Melbourne, Victoria",Victoria,2011-08-27,2011-08-28,-37.81521,144.96394,Melbourne,0.2,0,35,0.44305,50
+AustralianNationals2012,"Melbourne, Victoria",Victoria,2012-09-01,2012-09-02,-37.80835,144.96394,Melbourne,0.6,0,41,0.57747,36
+AustralianNationals2013,"Canberra, Australian Capital Territory",Australian Capital Territory,2013-09-07,2013-09-08,-35.32696,149.08246,Canberra,6.7,0,51,2.32788,47
+AustralianNationals2014,"Sydney, New South Wales",New South Wales,2014-08-16,2014-08-17,-33.87429,151.21321,Sydney,0.7,0,95,95,67
+AustralianNationals2015,"Melbourne, Victoria",Victoria,2015-10-03,2015-10-04,-37.8169,145.0683,Melbourne,9.3,0,127,0.79244,46
+AustralianNationals2016,"Sydney, New South Wales",New South Wales,2016-08-20,2016-08-21,-33.75653,151.11315,Sydney,15.3,0,194,1.61903,46
+AustralianNationals2017,"Melbourne, Victoria",Victoria,2017-09-23,2017-09-24,-37.7991,145.23833,Melbourne,24.3,0,187,0.97236,41
+AustralianNationals2018,"Canberra, Australian Capital Territory",Australian Capital Territory,2018-10-06,2018-10-07,-35.26138,149.13836,Canberra,2.3,0,199,2.50706,61
+AustralianNationals2022,"Perth, Western Australia",Western Australia,2022-09-30,2022-10-02,-31.98103,115.77314,Perth,8.9,0,263,0.68109,169
+AustralianNationals2023,"Moreton Bay, Queensland",Queensland,2023-09-28,2023-10-01,-27.11675,152.94932,Brisbane,40,0,438,0.76314,361
+AustralianNationals2024,"Adelaide, South Australia",South Australia,2024-07-12,2024-07-14,-34.92859,138.64187,Adelaide,3.8,0,324,1.38674,175
+AustralianNationals2025,"Brisbane, Queensland",Queensland,2025-10-02,2025-10-05,-27.55982,153.06511,Brisbane,10.8,0,358,1.13029,284
+AustralianNationals2026,"Melbourne, Victoria",Victoria,2026-07-09,2026-07-12,-37.88227,145.08138,Melbourne,12.9,0,507,0.60746,190
+AustralianNationalsFMC2022,Multiple cities,Western Australia,2022-09-25,2022-09-25,-31.98103,115.77314,Perth,8.9,0,58,0.17255,129
+AustralianNationalsFMC2023,Multiple cities,Victoria,2023-09-24,2023-09-24,-37.82045,144.9405,Melbourne,2.1,0,75,0.04633,142
+AustralianNationalsFMC2024,Multiple cities,South Australia,2024-07-07,2024-07-07,-26.11598,132.71484,Adelaide,1131.2,1,66,66,88
+AustralianNationalsFMC2025,Multiple cities,South Australia,2025-09-28,2025-09-28,-26.11598,132.71484,Adelaide,1131.2,1,55,55,43
+BarwonCubefortheKids2021,"Barwon Heads, Victoria",Victoria,2021-03-14,2021-03-14,-38.28128,144.48694,Melbourne,66.7,0,112,0.81642,32
+BelgraveOpen2026,"Melbourne, Victoria",Victoria,2026-09-12,2026-09-13,-37.9268,145.34986,Melbourne,36.2,0,205,0.22666,111
+BendigoCubeBlitz2020,"Bendigo, Victoria",Victoria,2020-02-23,2020-02-23,-36.75472,144.28496,Melbourne,132.3,1,74,0.18195,88
+BigCubeTimeBrisbane2026,"Brisbane, Queensland",Queensland,2026-05-30,2026-05-31,-27.5356,153.09423,Brisbane,10,0,50,0.15727,71
+BigNBlindBerwick2023,"Melbourne, Victoria",Victoria,2023-12-16,2023-12-17,-38.03197,145.34762,Melbourne,41.6,0,27,0.02246,88
+BigNBlindBerwick2024,"Melbourne, Victoria",Victoria,2024-10-12,2024-10-13,-38.03197,145.34762,Melbourne,41.6,0,24,0.03024,157
+BindoonBonanza2026,"Bindoon, Western Australia",Western Australia,2026-09-05,2026-09-05,-31.38599,116.09678,Perth,66.9,0,14,0.05983,90
+BoxHillBigBlindBonanza2019,"Box Hill, Victoria",Victoria,2019-09-14,2019-09-14,-37.81472,145.11582,Melbourne,13.4,0,23,0.0254,82
+BraybrookBigCubes2026,"Melbourne, Victoria",Victoria,2026-05-02,2026-05-02,-37.78647,144.85385,Melbourne,10.1,0,39,0.04582,55
+BrilliantBallarat2019,"Ballarat, Victoria",Victoria,2019-02-16,2019-02-17,-37.58846,143.83294,Melbourne,102.6,1,57,0.34695,61
+BrilliantBallarat2022,"Ballarat, Victoria",Victoria,2022-02-12,2022-02-13,-37.56246,143.85271,Melbourne,101.7,1,102,0.41772,36
+BrilliantBallarat2023,"Ballarat, Victoria",Victoria,2023-02-25,2023-02-26,-37.56246,143.85267,Melbourne,101.7,1,140,0.16236,127
+BrilliantBallarat2024,"Ballarat, Victoria",Victoria,2024-03-16,2024-03-17,-37.56246,143.85267,Melbourne,101.7,1,86,0.12063,57
+BrilliantBallarat2025,"Ballarat, Victoria",Victoria,2025-02-15,2025-02-16,-37.56246,143.85267,Melbourne,101.7,1,82,0.17106,77
+BrilliantBallarat2026,"Ballarat, Victoria",Victoria,2026-05-30,2026-05-31,-37.56246,143.85286,Melbourne,101.7,1,68,0.13191,83
+BrisbaneAt6sand7s2024,"Brisbane, Queensland",Queensland,2024-06-01,2024-06-01,-27.39371,152.99108,Brisbane,9.1,0,19,0.02989,60
+BrisbaneAutumn2022,"Brisbane, Queensland",Queensland,2022-04-02,2022-04-03,-27.48139,153.01718,Brisbane,1.5,0,248,2.05987,50
+BrisbaneBignBlind2023,"Brisbane, Queensland",Queensland,2023-11-11,2023-11-12,-27.39312,152.99043,Brisbane,9.2,0,37,0.04474,99
+BrisbaneIsBackOn2021,"Brisbane, Queensland",Queensland,2021-01-16,2021-01-17,-27.48139,153.01718,Brisbane,1.5,0,168,168,44
+BrisbaneMegaBlind2024,"Brisbane, Queensland",Queensland,2024-10-19,2024-10-19,-27.39342,152.99048,Brisbane,9.2,0,25,0.0531,51
+BrisbaneNewcomers2025,"Brisbane, Queensland",Queensland,2025-03-02,2025-03-02,-27.58595,153.29354,Brisbane,29.5,0,91,0.2001,90
+Brisbanes20in21in2022,"Brisbane, Queensland",Queensland,2022-06-25,2022-06-26,-27.39417,152.99297,Brisbane,9,0,102,0.38366,85
+BrisbaneSpring2015,"Brisbane, Queensland",Queensland,2015-09-19,2015-09-19,-27.47648,153.01837,Brisbane,1,0,45,45,32
+BrisbaneSummer2023,"Brisbane, Queensland",Queensland,2023-02-04,2023-02-05,-27.11695,152.94937,Brisbane,40,0,332,0.77657,106
+BrisbaneSummer2024,"Brisbane, Queensland",Queensland,2024-02-03,2024-02-04,-27.11695,152.94937,Brisbane,40,0,205,0.30868,126
+BrisbaneSummer2025,"Brisbane, Queensland",Queensland,2025-02-01,2025-02-02,-27.11697,152.94996,Brisbane,40,0,199,0.50251,134
+BrisbaneWinter2017,"Brisbane, Queensland",Queensland,2017-09-16,2017-09-16,-27.54456,153.08383,Brisbane,10.1,0,64,64,69
+BrisbaneWinter2018,"Brisbane, Queensland",Queensland,2018-06-30,2018-06-30,-27.69052,153.18318,Brisbane,29.1,0,95,2.19831,53
+BroomeOpen2023,"Broome, Western Australia",Western Australia,2023-11-04,2023-11-04,-17.9532,122.22187,Darwin,1109.4,1,17,17,36
+BroomeOpen2024,"Broome, Western Australia",Western Australia,2024-11-23,2024-11-23,-17.95309,122.22104,Darwin,1109.4,1,9,9,31
+BunburySouthWestSpeedsolving2023,"Bunbury, Western Australia",Western Australia,2023-08-05,2023-08-05,-33.40613,115.63858,Perth,163.2,1,24,0.54758,58
+BunburysSpeedsolving2024,"Bunbury, Western Australia",Western Australia,2024-09-14,2024-09-14,-33.40529,115.63726,Perth,163.1,1,23,4.47681,49
+BunburysSpeedsolving2025,"Bunbury, Western Australia",Western Australia,2025-11-16,2025-11-16,-33.41006,115.64167,Perth,163.6,1,36,14.6382,90
+ButlerBlitz2022,"Butler, Western Australia",Western Australia,2022-11-26,2022-11-26,-31.65151,115.70807,Perth,36.5,0,64,0.19462,60
+ButlerBlitz2023,"Butler, Western Australia",Western Australia,2023-10-21,2023-10-21,-31.65144,115.70809,Perth,36.5,0,49,0.15941,33
+CACBrisbane2026,"Brisbane, Queensland",Queensland,2026-02-14,2026-02-15,-27.55843,153.06376,Brisbane,10.6,0,184,0.50128,88
+CairnsOpen2026,"Cairns, Queensland",Queensland,2026-10-03,2026-10-04,-16.81844,145.69188,Brisbane,1405.4,1,18,18,54
+CammerayClockClash2025,"Sydney, New South Wales",New South Wales,2025-09-27,2025-09-28,-33.82951,151.20745,Sydney,4.4,0,49,0.07625,31
+CanberraAutumn2015,"Canberra, Australian Capital Territory",Australian Capital Territory,2015-05-09,2015-05-10,-35.34315,149.05618,Canberra,9.6,0,36,36,35
+CanberraAutumn2016,"Canberra, Australian Capital Territory",Australian Capital Territory,2016-05-21,2016-05-22,-35.45959,149.09497,Canberra,20.1,0,42,42,31
+CanberraAutumn2018,"Canberra, Australian Capital Territory",Australian Capital Territory,2018-04-21,2018-04-22,-35.42407,149.06813,Canberra,16.9,0,108,2.63699,58
+CanberraAutumn2022,"Canberra, Australian Capital Territory",Australian Capital Territory,2022-05-07,2022-05-08,-35.31222,149.1106,Canberra,3.9,0,109,109,59
+CanberraSpring2016,"Canberra, Australian Capital Territory",Australian Capital Territory,2016-09-24,2016-09-25,-35.45973,149.09479,Canberra,20.2,0,64,3.76471,30
+CanberraSpring2017,"Canberra, Australian Capital Territory",Australian Capital Territory,2017-11-04,2017-11-05,-35.45973,149.09479,Canberra,20.2,0,75,75,36
+CanberraSpring2024,"Canberra, Australian Capital Territory",Australian Capital Territory,2024-10-05,2024-10-06,-35.31941,149.04068,Canberra,9.2,0,74,0.76676,46
+CanberraSpringOpen2026,"Canberra, Australian Capital Territory",Australian Capital Territory,2026-09-19,2026-09-19,-35.29028,149.15614,Canberra,2.6,0,51,2.34029,42
+CanberraSummer2013,"Fyshwick, Australian Capital Territory",Australian Capital Territory,2013-01-05,2013-01-05,-35.32515,149.18304,Canberra,6.9,0,26,26,54
+CanberraSummer2014,"Canberra, Australian Capital Territory",Australian Capital Territory,2014-01-18,2014-01-18,-35.28207,149.12866,Canberra,0.2,0,28,0.82528,51
+CanningClocksandCubes2025,"Perth, Western Australia",Western Australia,2025-07-27,2025-07-27,-32.01622,115.92988,Perth,9.6,0,32,0.09157,103
+CapitalCubingCanberraSat2024,"Canberra, Australian Capital Territory",Australian Capital Territory,2024-05-04,2024-05-04,-35.20589,149.0449,Canberra,11.4,0,64,0.6348,33
+CapitalCubingCanberraSun2024,"Canberra, Australian Capital Territory",Australian Capital Territory,2024-05-05,2024-05-05,-35.20589,149.0449,Canberra,11.4,0,30,0.21992,34
+ChaoticCraigie2021,"Perth, Western Australia",Western Australia,2021-08-29,2021-08-29,-31.79532,115.77591,Perth,19.2,0,23,0.08413,36
+ChillinginCanberra2023,"Canberra, Australian Capital Territory",Australian Capital Territory,2023-05-06,2023-05-07,-35.31226,149.11138,Canberra,3.9,0,119,2.47917,89
+ChillinginCanberraSaturday2024,"Canberra, Australian Capital Territory",Australian Capital Territory,2024-06-22,2024-06-22,-35.29748,149.12508,Canberra,1.9,0,71,0.81463,62
+ChillinginCanberraSunday2024,"Canberra, Australian Capital Territory",Australian Capital Territory,2024-06-23,2024-06-23,-35.29748,149.12508,Canberra,1.9,0,40,0.32453,63
+ChillinginToowoomba2024,"Toowoomba, Queensland",Queensland,2024-08-24,2024-08-25,-27.53727,151.92392,Brisbane,109,1,90,0.26232,86
+ClareValleyCubing2022,"Clare, South Australia",South Australia,2022-08-21,2022-08-21,-33.83623,138.60912,Adelaide,121.6,1,70,1.17972,86
+Clockburn2023,"Cockburn, Western Australia",Western Australia,2023-12-03,2023-12-03,-32.15069,115.84757,Perth,22.1,0,35,0.09619,104
+CoffsBigBananaBonanza2024,"Coffs Harbour, New South Wales",New South Wales,2024-09-28,2024-09-29,-30.2925,153.12087,Brisbane,314.4,1,47,47,106
+CoffsBigBananaBonanza2025,"Coffs Harbour, New South Wales",New South Wales,2025-08-09,2025-08-10,-30.2925,153.12087,Brisbane,314.4,1,39,4.875,51
+ConnorsCubeDay2016,"Melbourne, Victoria",Victoria,2016-05-29,2016-05-29,-37.90947,144.99125,Melbourne,11,0,96,0.38183,24
+CoolDownSydney2019,"Sydney, New South Wales",New South Wales,2019-02-10,2019-02-10,-33.87611,151.17837,Sydney,3,0,111,0.68996,79
+CoolDownwiththeCows2022,"Cowaramup, Western Australia",Western Australia,2022-10-08,2022-10-08,-33.8516,115.10398,Perth,223,1,39,39,151
+CraigieCubeOff2021,"Craigie, Western Australia",Western Australia,2021-03-28,2021-03-28,-31.79532,115.77591,Perth,19.2,0,95,0.48342,37
+CranbourneAttempt22021,"Melbourne, Victoria",Victoria,2021-12-18,2021-12-18,-38.1186,145.30908,Melbourne,45.5,0,32,0.12547,30
+CranbourneSpringSaturday2023,"Melbourne, Victoria",Victoria,2023-09-09,2023-09-09,-38.10685,145.28608,Melbourne,43.2,0,58,0.03999,77
+CranbourneSpringSunday2023,"Melbourne, Victoria",Victoria,2023-09-10,2023-09-10,-38.10673,145.28616,Melbourne,43.2,0,127,0.08618,78
+CubeForCambodia2015,"Melbourne, Victoria",Victoria,2015-05-31,2015-05-31,-37.60384,145.11575,Melbourne,26.9,0,89,0.60838,90
+CubeForCambodia2016,"Melbourne, Victoria",Victoria,2016-07-24,2016-07-24,-37.60328,145.11517,Melbourne,27,0,91,0.38352,35
+CubeforCambodia2017,"Melbourne, Victoria",Victoria,2017-05-07,2017-05-07,-37.60328,145.11517,Melbourne,27,0,87,0.37622,33
+CubeforCambodia2018,"Melbourne, Victoria",Victoria,2018-05-06,2018-05-06,-37.60328,145.11517,Melbourne,27,0,94,0.45484,37
+CubeforCambodia2019,"Melbourne, Victoria",Victoria,2019-04-28,2019-04-28,-37.604,145.11476,Melbourne,26.9,0,70,0.2829,46
+CubingatTheCube2024,"Sydney, New South Wales",New South Wales,2024-01-06,2024-01-07,-34.07274,150.80675,Sydney,43.5,0,181,0.16915,99
+CubingatTheCube2025,"Sydney, New South Wales",New South Wales,2025-01-11,2025-01-12,-34.07208,150.80681,Sydney,43.5,0,197,0.33911,51
+CubingatTheCube2026,"Sydney, New South Wales",New South Wales,2026-01-10,2026-01-11,-34.07208,150.80681,Sydney,43.5,0,238,0.424,75
+CubingAtTheCubeSaturday2023,"Sydney, New South Wales",New South Wales,2023-01-21,2023-01-21,-34.07274,150.80675,Sydney,43.5,0,116,0.19029,72
+CubingAtTheCubeSunday2023,"Sydney, New South Wales",New South Wales,2023-01-22,2023-01-22,-34.07274,150.80675,Sydney,43.5,0,214,0.30481,73
+CubingatTheGameExpo2024,"Melbourne, Victoria",Victoria,2024-03-23,2024-03-23,-37.8248,144.9554,Melbourne,1.4,0,94,0.08687,59
+CubingatTramshedsSaturday2023,"Sydney, New South Wales",New South Wales,2023-08-26,2023-08-26,-33.87611,151.17837,Sydney,3,0,101,0.08619,104
+CubingatTramshedsSunday2023,"Sydney, New South Wales",New South Wales,2023-08-27,2023-08-27,-33.87611,151.17837,Sydney,3,0,89,0.07355,105
+CubingbyQuinnsBeach2023,"Perth, Western Australia",Western Australia,2023-12-16,2023-12-16,-31.67829,115.69585,Perth,34.3,0,53,0.1529,115
+CubingbySorrentoBeach2025,"Perth, Western Australia",Western Australia,2025-12-21,2025-12-21,-31.82419,115.75063,Perth,17.7,0,49,0.20438,56
+CubingClassic2016,"Melbourne, Victoria",Victoria,2016-03-19,2016-03-20,-37.82523,144.95234,Melbourne,1.6,0,101,0.53334,27
+CubingClassic2017,"Melbourne, Victoria",Victoria,2017-03-18,2017-03-19,-37.82421,144.95611,Melbourne,1.3,0,91,0.35952,33
+CubinginCorindaSaturday2024,"Brisbane, Queensland",Queensland,2024-03-09,2024-03-09,-27.54449,152.98648,Brisbane,9.1,0,115,0.18697,90
+CubinginCorindaSunday2024,"Brisbane, Queensland",Queensland,2024-03-10,2024-03-10,-27.54449,152.98648,Brisbane,9.1,0,95,0.14216,91
+CubingintheDilly2023,"Tahmoor, New South Wales",New South Wales,2023-06-10,2023-06-10,-34.25288,150.57442,Sydney,72.5,0,82,0.07973,68
+CubinginWollondilly2024,"Tahmoor, New South Wales",New South Wales,2024-08-31,2024-08-31,-34.25288,150.57442,Sydney,72.5,0,75,0.11009,63
+CubingwithPenguins2023,"San Remo, Victoria",Victoria,2023-09-16,2023-09-17,-38.52399,145.37038,Melbourne,86.7,0,60,0.05127,39
+CubingwiththeCows2020,"Cowaramup, Western Australia",Western Australia,2020-11-28,2020-11-28,-33.85092,115.10379,Perth,222.9,1,40,40,31
+CupcakeCubing2013,"Melbourne, Victoria",Victoria,2013-05-23,2013-05-23,-37.81095,144.96318,Melbourne,0.3,0,13,0.22807,15
+DarwinOpen2019,"Darwin, Northern Territory",Northern Territory,2019-12-07,2019-12-07,-12.37425,130.87983,Darwin,10.6,0,27,27,216
+DarwinOpen2020,"Darwin, Northern Territory",Northern Territory,2020-12-05,2020-12-05,-12.37425,130.87983,Darwin,10.6,0,26,1.73333,171
+DarwinOpen2022,"Darwin, Northern Territory",Northern Territory,2022-04-16,2022-04-16,-12.37449,130.87992,Darwin,10.6,0,28,28,64
+DarwinOpen2026,"Darwin, Northern Territory",Northern Territory,2026-09-27,2026-09-27,-12.39958,130.88222,Darwin,8.1,0,22,1.46763,151
+DontInverlochUp2024,"Inverloch, Victoria",Victoria,2024-02-10,2024-02-11,-38.633540000000004,145.72782,Melbourne,113.2,1,69,0.09718,36
+DontInverlochUp2025,"Inverloch, Victoria",Victoria,2025-05-03,2025-05-04,-38.63339,145.72766,Melbourne,113.1,1,65,0.17196,67
+DontInverlochUp2026,"Inverloch, Victoria",Victoria,2026-02-07,2026-02-08,-38.63344,145.72766,Melbourne,113.1,1,49,0.09601,70
+EastsideSideEvents2024,"Brisbane, Queensland",Queensland,2024-02-17,2024-02-18,-27.58595,153.29354,Brisbane,29.5,0,71,0.12306,93
+EnjoyableSydneyGathering2020,"Sydney, New South Wales",New South Wales,2020-03-07,2020-03-08,-33.88983,151.15297,Sydney,5.7,0,144,0.42625999999999997,30
+EvenBetterSydneyGathering2022,"Sydney, New South Wales",New South Wales,2022-09-24,2022-09-24,-33.8898,151.15332,Sydney,5.7,0,96,0.16745,32
+FebruaryFitzroyFun2023,"Melbourne, Victoria",Victoria,2023-02-11,2023-02-12,-37.78578,144.98244,Melbourne,3.5,0,28,0.01928,51
+FlindersParkSideEvents2026,"Perth, Western Australia",Western Australia,2026-06-20,2026-06-21,-31.80812,115.73647,Perth,19.9,0,25,0.0933,109
+FMCEastMelbourne2023,"Cranbourne, Victoria",Victoria,2023-04-01,2023-04-01,-38.11836,145.30756,Melbourne,45.4,0,19,0.01312,41
+FMCEastMelbourne2024,"Melbourne, Victoria",Victoria,2024-04-13,2024-04-13,-38.11836,145.30756,Melbourne,45.4,0,20,0.02036,64
+FMCEastMelbourne2025,"Melbourne, Victoria",Victoria,2025-10-25,2025-10-25,-38.14664,145.23288,Melbourne,44,0,18,0.02418,33
+FMCWestMelbourne2023,"Bacchus Marsh, Victoria",Victoria,2023-04-02,2023-04-02,-37.67659,144.44104,Melbourne,48.4,0,15,0.01061,42
+FMCWestMelbourne2024,"Melbourne, Victoria",Victoria,2024-04-14,2024-04-14,-37.78947,144.92863,Melbourne,4.1,0,20,0.01868,65
+FortitudeSydney2019,"Sydney, New South Wales",New South Wales,2019-09-28,2019-09-29,-33.88984,151.15303,Sydney,5.7,0,145,0.60757,32
+FourTheWinDandenong2023,"Melbourne, Victoria",Victoria,2023-07-23,2023-07-23,-37.9656,145.20942,Melbourne,27.5,0,49,0.0325,102
+FremantleFastFingers2021,"Perth, Western Australia",Western Australia,2021-10-10,2021-10-10,-32.04299,115.75513,Perth,14.2,0,129,0.43256,98
+FreoCubeOff2023,"Perth, Western Australia",Western Australia,2023-04-16,2023-04-16,-32.0542,115.74826,Perth,15.6,0,80,0.22409,37
+FreoCubeOff2024,"Perth, Western Australia",Western Australia,2024-04-07,2024-04-07,-32.0543,115.74789,Perth,15.6,0,43,0.10763,32
+FreoCubeOff2025,"Perth, Western Australia",Western Australia,2025-04-05,2025-04-05,-32.0543,115.74789,Perth,15.6,0,86,0.24274,56
+FreoCubeOff2026,"Perth, Western Australia",Western Australia,2026-04-12,2026-04-12,-32.05426,115.74789,Perth,15.6,0,67,0.25902,82
+GdayMaitland2024,"Maitland, New South Wales",New South Wales,2024-02-03,2024-02-03,-32.71096,151.52856,Sydney,132.3,1,75,0.15519,80
+GeelongsaysSoLong2021,"Geelong, Victoria",Victoria,2021-12-28,2021-12-29,-38.14096,144.34748,Melbourne,65.2,0,100,0.3468,41
+GeelongWinter2023,"Geelong, Victoria",Victoria,2023-07-29,2023-07-30,-38.14096,144.34748,Melbourne,65.2,0,114,0.08887,63
+GeelongWinter2024,"Geelong, Victoria",Victoria,2024-08-24,2024-08-25,-38.14096,144.34748,Melbourne,65.2,0,118,0.16362,108
+GeelongWinter2025,"Geelong, Victoria",Victoria,2025-08-30,2025-08-31,-38.14096,144.34748,Melbourne,65.2,0,106,0.18679,113
+GeelongWinter2026,"Geelong, Victoria",Victoria,2026-08-29,2026-08-30,-38.14096,144.34748,Melbourne,65.2,0,125,0.15975,97
+GetAnotherSuccessinSuccess2024,"Perth, Western Australia",Western Australia,2024-02-24,2024-02-24,-32.1507,115.84757,Perth,22.1,0,24,0.06149,186
+GetaSuccessinSuccess2023,"Perth, Western Australia",Western Australia,2023-02-26,2023-02-26,-32.15028,115.84886,Perth,22.1,0,26,0.07721,44
+GoingBacktotheGong2024,"Wollongong, New South Wales",New South Wales,2024-02-10,2024-02-11,-34.49706,150.79264,Sydney,79.8,0,91,0.11688,64
+GoingFastinGuildford2024,"Perth, Western Australia",Western Australia,2024-04-13,2024-04-13,-31.89967,115.97201,Perth,12,0,75,0.18432,79
+GoingSlowinGibsonPark2024,"Perth, Western Australia",Western Australia,2024-03-09,2024-03-09,-31.80541,115.7731,Perth,18.4,0,27,0.07089,45
+GoingtoTheGong2020,"Wollongong, New South Wales",New South Wales,2020-02-16,2020-02-16,-34.33381,150.91753,Sydney,58.3,0,70,0.26361,55
+GoldCoastSpring2019,"Gold Coast, Queensland",Queensland,2019-09-21,2019-09-21,-27.97101,153.41422,Brisbane,67.7,0,135,1.75934,181
+GoodSolvesinGibsonPark2026,"Perth, Western Australia",Western Australia,2026-03-01,2026-03-01,-31.80566,115.77337,Perth,18.3,0,37,0.13916,31
+GoulburnOpen2024,"Goulburn, New South Wales",New South Wales,2024-04-20,2024-04-20,-34.75315,149.71831,Canberra,79.5,0,73,0.62007,84
+HalfTurnsinHallettCove2024,"Adelaide, South Australia",South Australia,2024-04-20,2024-04-20,-35.07703,138.51851,Adelaide,18.2,0,39,0.1305,72
+HamptonParkSummerSaturday2023,"Melbourne, Victoria",Victoria,2023-12-02,2023-12-02,-38.03356,145.26439,Melbourne,36,0,59,0.04355,74
+HamptonParkSummerSunday2023,"Melbourne, Victoria",Victoria,2023-12-03,2023-12-03,-38.03356,145.26439,Melbourne,36,0,61,0.04486,75
+HaroldParkClassic2019,"Sydney, New South Wales",New South Wales,2019-08-25,2019-08-25,-33.87611,151.17837,Sydney,3,0,117,0.75705,110
+HillarysFirstTurns2026,"Perth, Western Australia",Western Australia,2026-01-04,2026-01-04,-31.80823,115.73651,Perth,19.9,0,18,0.06895,38
+HobartAutumn2026,"Hobart, Tasmania",Tasmania,2026-05-24,2026-05-24,-42.88182,147.40277,Hobart,6.2,0,38,1.03887,47
+HobartHoedown2019,"Hobart, Tasmania",Tasmania,2019-12-14,2019-12-15,-42.85766,147.39972,Hobart,6.5,0,60,4.0103,74
+HobartOpen2019,"Hobart, Tasmania",Tasmania,2019-03-09,2019-03-09,-42.86915,147.31323,Hobart,1.8,0,36,36,95
+HobartSummer2018,"Hobart, Tasmania",Tasmania,2018-01-27,2018-01-27,-42.86915,147.31323,Hobart,1.8,0,53,53,81
+HobartWinter2024,"Howrah, Tasmania",Tasmania,2024-08-17,2024-08-17,-42.8815,147.40303,Hobart,6.2,0,37,0.8079,38
+Horsham2019,"Horsham, Victoria",Victoria,2019-08-10,2019-08-11,-36.71807,142.17902,Melbourne,275.1,1,51,4.63637,103
+HorshamWinter2018,"Horsham, Victoria",Victoria,2018-08-25,2018-08-25,-36.71707,142.17998,Melbourne,275.1,1,49,49,49
+HurryorNotHillarys2025,"Perth, Western Australia",Western Australia,2025-03-02,2025-03-02,-31.80803,115.73652,Perth,19.9,0,31,0.08388,56
+HurryUpKarrinyup2023,"Perth, Western Australia",Western Australia,2023-03-19,2023-03-19,-31.87578,115.77872,Perth,11.6,0,81,0.23589,41
+JogYourMemoryJoondalup2025,"Perth, Western Australia",Western Australia,2025-06-07,2025-06-07,-31.75395,115.75038,Perth,24.4,0,18,0.05191,95
+JogYourMemoryJoondalup2026,"Perth, Western Australia",Western Australia,2026-06-13,2026-06-13,-31.75395,115.75038,Perth,24.4,0,18,0.0675,102
+JustSidesinLyndhurst2026,"Melbourne, Victoria",Victoria,2026-05-16,2026-05-16,-38.0731,145.25328,Melbourne,38.5,0,37,0.04432,69
+KeepUpKarrinyup2025,"Perth, Western Australia",Western Australia,2025-05-04,2025-05-04,-31.87581,115.7785,Perth,11.6,0,56,0.16361,77
+Kensington2021,"Melbourne, Victoria",Victoria,2021-12-19,2021-12-19,-37.78947,144.92863,Melbourne,4.1,0,90,0.31069,32
+KensingtonMaySaturday2024,"Melbourne, Victoria",Victoria,2024-05-11,2024-05-11,-37.78945,144.92862,Melbourne,4.1,0,102,0.09608,89
+KensingtonMaySunday2024,"Melbourne, Victoria",Victoria,2024-05-12,2024-05-12,-37.78945,144.92862,Melbourne,4.1,0,115,0.10146,90
+KensingtonMayUpstairs2024,"Melbourne, Victoria",Victoria,2024-05-11,2024-05-12,-37.78945,144.92862,Melbourne,4.1,0,26,0.02449,89
+KensingtonSummerSaturday2023,"Melbourne, Victoria",Victoria,2023-02-11,2023-02-11,-37.78947,144.92863,Melbourne,4.1,0,94,0.06497,37
+KensingtonSummerSunday2023,"Melbourne, Victoria",Victoria,2023-02-12,2023-02-12,-37.78947,144.92863,Melbourne,4.1,0,98,0.06569,38
+KewClockClash2024,"Melbourne, Victoria",Victoria,2024-09-14,2024-09-15,-37.80776,145.03454,Melbourne,6.3,0,34,0.04349,129
+KiamaWinter2024,"Kiama, New South Wales",New South Wales,2024-06-01,2024-06-01,-34.67477,150.85698,Sydney,95.4,0,69,0.11271,95
+KlemzigKubingDecathlon2026,"Adelaide, South Australia",South Australia,2026-08-22,2026-08-23,-34.87564,138.63186,Adelaide,6.5,0,72,0.66246,137
+KoalaficationAdelaide2019,"Adelaide, South Australia",South Australia,2019-05-04,2019-05-04,-35.00269,138.55258,Adelaide,9.4,0,63,0.77227,41
+KoalaficationBrisbane2019,"Brisbane, Queensland",Queensland,2019-04-06,2019-04-07,-27.39311,152.98991,Brisbane,9.2,0,117,0.9811,60
+KoalaficationCanberra2019,"Canberra, Australian Capital Territory",Australian Capital Territory,2019-04-13,2019-04-14,-35.1863,149.1167,Canberra,10.6,0,66,0.73618,97
+KoalaficationMelbourne2019,"Melbourne, Victoria",Victoria,2019-05-18,2019-05-19,-37.86366,144.81099,Melbourne,14.5,0,210,0.76544,102
+KoalaficationMelbourne2022,"Melbourne, Victoria",Victoria,2022-10-15,2022-10-16,-37.84338,144.96091,Melbourne,3.3,0,423,0.59484,74
+KoalaficationPerth2019,"Perth, Western Australia",Western Australia,2019-05-25,2019-05-26,-31.79155,115.79947,Perth,18.8,0,76,1.50042,73
+KoalaficationSydney2019,"Sydney, New South Wales",New South Wales,2019-03-16,2019-03-17,-33.75736,151.11477,Sydney,15.2,0,113,0.54727,30
+KogarahCubeDaySaturday2024,"Sydney, New South Wales",New South Wales,2024-04-13,2024-04-13,-33.96119,151.13446,Sydney,12.4,0,94,0.0957,49
+KogarahCubeDaySunday2024,"Sydney, New South Wales",New South Wales,2024-04-14,2024-04-14,-33.96119,151.13446,Sydney,12.4,0,78,0.07692,50
+KooyongClockClash2025,"Melbourne, Victoria",Victoria,2025-08-16,2025-08-17,-37.82534,145.03526,Melbourne,6.5,0,40,0.05082,174
+KubarooOpen2011,"Melbourne, Victoria",Victoria,2011-05-07,2011-05-07,-37.80751,144.96502,Melbourne,0.7,0,34,0.52309,31
+KubinginKlemzig2025,"Adelaide, South Australia",South Australia,2025-08-17,2025-08-17,-34.87565,138.63187,Adelaide,6.5,0,68,0.38522,121
+KurriKurri2012,"Kurri Kurri, New South Wales",New South Wales,2012-11-10,2012-11-10,-32.80927,151.48594,Sydney,120.7,1,19,1.39588,31
+LakeMacquarieOpen2025,"Cardiff, New South Wales",New South Wales,2025-05-03,2025-05-03,-32.94227,151.66027,Sydney,111.3,1,76,0.21376,54
+Launceston2022,"Launceston, Tasmania",Tasmania,2022-01-16,2022-01-16,-41.44567,147.15663,Hobart,160.5,1,21,21,44
+LauncestonAutumn2023,"Launceston, Tasmania",Tasmania,2023-03-25,2023-03-25,-41.44474,147.15653,Hobart,160.6,1,44,44,49
+LifestyleSeasonsSummer2014,"Melbourne, Victoria",Victoria,2014-01-11,2014-01-11,-37.84411,144.69093,Melbourne,24.2,0,38,0.57749,55
+LifestyleSeasonsSummer2015,"Melbourne, Victoria",Victoria,2015-01-31,2015-01-31,-37.84395,144.69096,Melbourne,24.2,0,49,0.37399,77
+LifestyleSeasonsSummer2017,"Melbourne, Victoria",Victoria,2017-02-18,2017-02-18,-37.8441,144.69089,Melbourne,24.2,0,45,0.20265,37
+LifestyleSeasonsWinter2014,"Melbourne, Victoria",Victoria,2014-08-02,2014-08-02,-37.81443,144.96153,Melbourne,0.2,0,36,0.27796,141
+LifestyleSeasonsWinter2015,"Melbourne, Victoria",Victoria,2015-08-01,2015-08-01,-37.84395,144.69096,Melbourne,24.2,0,55,0.36361,29
+MaitlandSpring2022,"Maitland, New South Wales",New South Wales,2022-11-12,2022-11-12,-32.76506,151.61272,Sydney,128.5,1,68,0.20226,67
+MaitlandSpring2024,"Maitland, New South Wales",New South Wales,2024-11-23,2024-11-23,-32.71096,151.52856,Sydney,132.3,1,43,0.13174,34
+MaitlandWinter2023,"Maitland, New South Wales",New South Wales,2023-06-17,2023-06-17,-32.71096,151.52856,Sydney,132.3,1,69,0.1686,75
+MandurahMadness2025,"Mandurah, Western Australia",Western Australia,2025-08-23,2025-08-23,-32.52799,115.74127,Perth,65.1,0,29,0.11172,89
+MandurahMayhem2023,"Mandurah, Western Australia",Western Australia,2023-05-20,2023-05-20,-32.52779,115.74146,Perth,65,0,59,0.178,87
+MarinoMadness2025,"Adelaide, South Australia",South Australia,2025-11-30,2025-11-30,-35.04266,138.51792,Adelaide,14.8,0,51,0.34559,59
+MarrickvilleAutumnSaturday2021,"Sydney, New South Wales",New South Wales,2021-05-22,2021-05-22,-33.90926,151.1541,Sydney,6.8,0,113,0.62351,44
+MarrickvilleAutumnSunday2021,"Sydney, New South Wales",New South Wales,2021-05-23,2021-05-23,-33.90926,151.1541,Sydney,6.8,0,116,0.44827,45
+MarrickvilleBigCubesDay2022,"Sydney, New South Wales",New South Wales,2022-10-15,2022-10-15,-33.90938,151.15428,Sydney,6.8,0,54,0.09321,149
+MarrickvilleManyMayOpen2023,"Sydney, New South Wales",New South Wales,2023-05-20,2023-05-20,-33.90938,151.15428,Sydney,6.8,0,130,0.11666,146
+MarrickvilleMegaMayOpen2023,"Sydney, New South Wales",New South Wales,2023-05-21,2023-05-21,-33.90938,151.15428,Sydney,6.8,0,125,0.10825,147
+MarrickvilleMiniMayOpen2023,"Sydney, New South Wales",New South Wales,2023-05-21,2023-05-21,-33.90938,151.15428,Sydney,6.8,0,134,0.11605,147
+MarrickvilleMiniOpenAM2022,"Sydney, New South Wales",New South Wales,2022-10-16,2022-10-16,-33.90938,151.15428,Sydney,6.8,0,124,0.2065,150
+MarrickvilleMiniOpenPM2022,"Sydney, New South Wales",New South Wales,2022-10-16,2022-10-16,-33.90938,151.15428,Sydney,6.8,0,134,0.22315,150
+MarsdeNxN2024,"Brisbane, Queensland",Queensland,2024-09-21,2024-09-22,-27.6869,153.11116,Brisbane,25.6,0,159,0.31104,125
+MegaminxinMordialloc2025,"Melbourne, Victoria",Victoria,2025-09-13,2025-09-13,-38.00408,145.08645,Melbourne,23.8,0,42,0.05478,46
+MelbourneAutumn2015,"Melbourne, Victoria",Victoria,2015-03-22,2015-03-22,-37.8169,145.0683,Melbourne,9.3,0,87,0.72172,37
+MelbourneAutumn2016,"Melbourne, Victoria",Victoria,2016-04-30,2016-04-30,-37.8169,145.0683,Melbourne,9.3,0,137,0.64231,33
+MelbourneCubeDay2010,"Melbourne, Victoria",Victoria,2010-11-13,2010-11-13,-37.81425,144.96317,Melbourne,0.1,0,30,0.50849,60
+MelbourneCubeDay2011,"Melbourne, Victoria",Victoria,2011-11-26,2011-11-26,-37.80958,144.96381,Melbourne,0.5,0,43,0.6418,82
+MelbourneCubeDay2012,"Melbourne, Victoria",Victoria,2012-11-24,2012-11-24,-37.80857,144.96414,Melbourne,0.6,0,30,0.4,32
+MelbourneCubeDay2013,"Melbourne, Victoria",Victoria,2013-11-16,2013-11-16,-37.81426,144.96315,Melbourne,0.1,0,60,1.50956,58
+MelbourneCubeDay2014,"Melbourne, Victoria",Victoria,2014-11-09,2014-11-09,-37.8169,145.0683,Melbourne,9.3,0,62,0.54501,25
+MelbourneCubeDay2015,"Melbourne, Victoria",Victoria,2015-11-07,2015-11-08,-37.76673,145.12225,Melbourne,14.9,0,85,0.38574,31
+MelbourneCubeDays2016,"Melbourne, Victoria",Victoria,2016-11-05,2016-11-06,-37.8169,145.0683,Melbourne,9.3,0,93,0.49075,33
+MelbourneCubeDays2017,"Melbourne, Victoria",Victoria,2017-11-18,2017-11-19,-37.8169,145.0683,Melbourne,9.3,0,114,0.45336,53
+MelbourneCubeDays2018,"Melbourne, Victoria",Victoria,2018-12-08,2018-12-09,-37.86366,144.81102,Melbourne,14.5,0,111,0.59287,39
+MelbourneCubeDays2019,"Melbourne, Victoria",Victoria,2019-11-30,2019-12-01,-37.64382,145.02568,Melbourne,19.7,0,141,0.15267,53
+MelbourneCubeDays2022,"Melbourne, Victoria",Victoria,2022-11-12,2022-11-13,-37.96856,145.15976,Melbourne,24.4,0,462,0.47203,107
+MelbourneCubeDays2023,"Melbourne, Victoria",Victoria,2023-11-11,2023-11-12,-37.96848,145.15978,Melbourne,24.4,0,262,0.17727,135
+MelbourneCubeDays2024,"Melbourne, Victoria",Victoria,2024-11-30,2024-12-01,-37.9684,145.15966,Melbourne,24.4,0,222,0.30991,89
+MelbourneCubeDays2025,"Melbourne, Victoria",Victoria,2025-11-29,2025-11-30,-37.81576,145.04757,Melbourne,7.4,0,295,0.38001,100
+MelbourneforKidsSaturday2023,"Melbourne, Victoria",Victoria,2023-08-26,2023-08-26,-37.73029,144.94225,Melbourne,9.5,0,113,0.07534,66
+MelbourneforKidsSunday2023,"Melbourne, Victoria",Victoria,2023-08-27,2023-08-27,-37.73029,144.94225,Melbourne,9.5,0,117,0.0763,67
+MelbourneMentalMania2019,"Melbourne, Victoria",Victoria,2019-03-02,2019-03-03,-38.06454,145.45578,Melbourne,51.5,0,23,0.10149,76
+MelbourneMentalMania2022,"Melbourne, Victoria",Victoria,2022-03-05,2022-03-06,-37.78945,144.92862,Melbourne,4.1,0,24,0.06181,34
+MelbourneMinimalMoves2022,"Melbourne, Victoria",Victoria,2022-04-30,2022-04-30,-37.80453,144.99294,Melbourne,2.8,0,13,0.02345,39
+MelbourneMiniSaturday2022,"Melbourne, Victoria",Victoria,2022-03-05,2022-03-05,-37.78945,144.92862,Melbourne,4.1,0,99,0.25496,34
+MelbourneMiniSunday2022,"Melbourne, Victoria",Victoria,2022-03-06,2022-03-06,-37.78946,144.92863,Melbourne,4.1,0,110,0.24479,35
+MelbourneSpring2013,"Melbourne, Victoria",Victoria,2013-11-09,2013-11-09,-37.83228,145.1206,Melbourne,14,0,26,1.64103,25
+MelbourneSummer2011,"Melbourne, Victoria",Victoria,2011-01-29,2011-01-30,-37.81319,144.96298,Melbourne,0,0,41,0.60295,61
+MelbourneSummer2012,"Melbourne, Victoria",Victoria,2012-02-25,2012-02-25,-37.80958,144.96381,Melbourne,0.5,0,38,0.54286,31
+MelbourneSummer2014,"Melbourne, Victoria",Victoria,2014-02-15,2014-02-15,-37.80755,144.96494,Melbourne,0.7,0,68,0.93127,39
+MelbourneSummer2019,"Melbourne, Victoria",Victoria,2019-01-26,2019-01-28,-37.67342,145.16629,Melbourne,23.7,0,125,0.55811,47
+MelbourneSummer2020,"Melbourne, Victoria",Victoria,2020-01-25,2020-01-27,-37.67343,145.16617,Melbourne,23.7,0,240,0.27205,69
+MelbourneSummer2021,"Melbourne, Victoria",Victoria,2021-01-23,2021-01-25,-37.67344,145.1662,Melbourne,23.7,0,206,0.93948,29
+MelbourneSummer2022,"Melbourne, Victoria",Victoria,2022-01-21,2022-01-23,-37.67342,145.16612,Melbourne,23.7,0,211,0.63295,43
+MelbourneSummer2023,"Melbourne, Victoria",Victoria,2023-01-20,2023-01-22,-37.67337,145.16612,Melbourne,23.7,0,385,0.26443,91
+MelbourneSummer2024,"Melbourne, Victoria",Victoria,2024-01-19,2024-01-21,-37.67351,145.16627,Melbourne,23.7,0,382,0.31815,138
+MelbourneSummer2025,"Melbourne, Victoria",Victoria,2025-01-24,2025-01-26,-37.67344,145.16601,Melbourne,23.7,0,389,0.62217,126
+MelbourneSummer2026,"Melbourne, Victoria",Victoria,2026-01-24,2026-01-26,-37.67355,145.16596,Melbourne,23.7,0,380,0.46718,135
+MelbourneSummerOpen2010,"Melbourne, Victoria",Victoria,2010-01-30,2010-01-30,-37.81334,144.97082,Melbourne,0.7,0,33,33,48
+MelbourneTrilogySaturday2022,"Melbourne, Victoria",Victoria,2022-08-13,2022-08-13,-37.78945,144.92862,Melbourne,4.1,0,113,0.1683,89
+MelbourneTrilogySunday2022,"Melbourne, Victoria",Victoria,2022-08-14,2022-08-14,-37.78945,144.92862,Melbourne,4.1,0,105,0.14358,90
+MelbourneTrilogyUpstairs2022,"Melbourne, Victoria",Victoria,2022-08-13,2022-08-14,-37.78945,144.92862,Melbourne,4.1,0,34,0.05064,89
+MelbourneWinter2012,"Melbourne, Victoria",Victoria,2012-06-30,2012-06-30,-37.80835,144.96394,Melbourne,0.6,0,43,0.82693,31
+MelbourneWinter2014,"Melbourne, Victoria",Victoria,2014-06-29,2014-06-29,-37.99145,145.03834,Melbourne,20.9,0,59,0.72084,41
+MelbourneWinter2018,"Melbourne, Victoria",Victoria,2018-06-02,2018-06-03,-37.78945,144.92866,Melbourne,4.1,0,124,0.55351,28
+MelbourneWinterOpen2010,"Melbourne, Victoria",Victoria,2010-06-26,2010-06-26,-37.80394,144.9522,Melbourne,1.4,0,32,0.96988,37
+MelbourneWinterOpen2011,"Melbourne, Victoria",Victoria,2011-06-25,2011-06-25,-37.80751,144.96502,Melbourne,0.7,0,40,0.51283,47
+MilduraMadness2023,"Mildura, Victoria",Victoria,2023-12-02,2023-12-03,-34.23355,142.1644,Adelaide,335.6,1,36,36,140
+MountGambierOpen2024,"Mount Gambier, South Australia",South Australia,2024-04-21,2024-04-21,-37.8299,140.78069,Melbourne,367.7,1,20,20,52
+MoveItMidland2024,"Perth, Western Australia",Western Australia,2024-10-26,2024-10-26,-31.874,116.02296,Perth,17.6,0,75,0.23264,94
+MoveItMidland2025,"Perth, Western Australia",Western Australia,2025-11-01,2025-11-01,-31.87396,116.02296,Perth,17.6,0,53,0.16508,60
+MucheaCubeDay2025,"Chittering, Western Australia",Western Australia,2025-12-06,2025-12-06,-31.58201,115.97093,Perth,42.5,0,22,0.0739,81
+MundaringMixup2024,"Mundaring, Western Australia",Western Australia,2024-06-23,2024-06-23,-31.90299,116.16507,Perth,29.2,0,37,0.10412,76
+MurdochUniversityOpen2024,"Perth, Western Australia",Western Australia,2024-02-03,2024-02-04,-32.06822,115.83602,Perth,13.1,0,119,0.35769,164
+MurdochUniversityOpen2026,"Perth, Western Australia",Western Australia,2026-09-19,2026-09-20,-32.068600000000004,115.83604,Perth,13.2,0,68,0.25212,57
+NEMelbourneMarchSaturday2026,"Melbourne, Victoria",Victoria,2026-03-07,2026-03-07,-37.72352,145.14160999999999,Melbourne,18.6,0,105,0.13273,99
+NEMelbourneMarchSunday2026,"Melbourne, Victoria",Victoria,2026-03-08,2026-03-08,-37.72343,145.14163,Melbourne,18.6,0,75,0.08961,100
+NewcastleAutumn2021,"Newcastle, New South Wales",New South Wales,2021-05-30,2021-05-30,-32.92522,151.71643,Sydney,115.1,1,64,0.38843,50
+NewcastleOpen2023,"Newcastle, New South Wales",New South Wales,2023-07-23,2023-07-23,-32.89291,151.69939,Sydney,117.8,1,122,0.21995,102
+NewcastleWinter2015,"Newcastle, New South Wales",New South Wales,2015-06-28,2015-06-28,-32.9259,151.77245,Sydney,117.3,1,61,0.925,44
+Niddrie2014,"Niddrie, Victoria",Victoria,2014-12-14,2014-12-14,-37.73022,144.87659,Melbourne,12,0,48,0.39856,23
+NimbleNewborough2024,"Newborough, Victoria",Victoria,2024-10-26,2024-10-27,-38.18691,146.29182,Melbourne,123.7,1,63,0.14915,69
+NimbleNewborough2025,"Newborough, Victoria",Victoria,2025-11-15,2025-11-16,-38.18691,146.29182,Melbourne,123.7,1,63,0.13525,87
+No3x3sinPerth2024,"Perth, Western Australia",Western Australia,2024-06-01,2024-06-01,-31.80541,115.7731,Perth,18.4,0,29,0.07597,54
+NorthernAdelaideCubing2024,"Adelaide, South Australia",South Australia,2024-11-24,2024-11-24,-34.79441,138.69572,Adelaide,17.3,0,63,0.22305,78
+NorthparkAdelaide2014,"Adelaide, South Australia",South Australia,2014-04-12,2014-04-12,-34.92863,138.59988,Adelaide,0.1,0,25,25,82
+NorthPerthFMCDay2025,"Perth, Western Australia",Western Australia,2025-02-02,2025-02-02,-31.80596,115.77325,Perth,18.3,0,18,0.04504,103
+NorthsideCubeDay2019,"Brisbane, Queensland",Queensland,2019-01-12,2019-01-12,-27.39314,152.98991,Brisbane,9.2,0,100,1.62988,84
+NorthsideCubeDays2020,"Brisbane, Queensland",Queensland,2020-01-11,2020-01-12,-27.39408,152.99015,Brisbane,9.1,0,122,0.75084,69
+NorthsideDuologyPart12022,"Brisbane, Queensland",Queensland,2022-01-07,2022-01-08,-27.39417,152.99297,Brisbane,9,0,54,0.3412,36
+NorthsideDuologyPart22022,"Brisbane, Queensland",Queensland,2022-01-08,2022-01-09,-27.39417,152.99297,Brisbane,9,0,78,0.40139,37
+NorthsideSpringSaturday2022,"Brisbane, Queensland",Queensland,2022-11-26,2022-11-26,-27.39312,152.99043,Brisbane,9.2,0,113,0.25277,50
+NorthsideSpringSunday2022,"Brisbane, Queensland",Queensland,2022-11-27,2022-11-27,-27.39312,152.99043,Brisbane,9.2,0,110,0.22033,51
+NorthSydneyCubeDay2023,"Sydney, New South Wales",New South Wales,2023-03-05,2023-03-05,-33.72221,151.11949,Sydney,18.3,0,513,0.62001,137
+NorthSydneyNoSeeing2026,"Sydney, New South Wales",New South Wales,2026-04-18,2026-04-19,-33.82948,151.20751,Sydney,4.4,0,52,0.08075,33
+NorthTasmaniaSpring2024,"Exeter, Tasmania",Tasmania,2024-10-27,2024-10-27,-41.29884,146.95638,Hobart,178.9,1,35,2.20775,40
+NorthTasmaniaSpring2025,"Exeter, Tasmania",Tasmania,2025-09-20,2025-09-20,-41.29884,146.95638,Hobart,178.9,1,26,2.16667,35
+NSWCentralWestWinter2022,"Orange, New South Wales",New South Wales,2022-06-19,2022-06-19,-33.28638,149.09642,Sydney,206.4,1,51,51,44
+NSWOpen2022,"Sydney, New South Wales",New South Wales,2022-06-11,2022-06-12,-33.72242,151.11988,Sydney,18.3,0,444,2.85635,102
+NSWSideStateChampionship2025,"Sydney, New South Wales",New South Wales,2025-05-31,2025-06-01,-33.82956,151.20746,Sydney,4.4,0,53,0.07781,56
+NSWStateChampionship2025,"Sydney, New South Wales",New South Wales,2025-04-26,2025-04-27,-33.7248,151.1202,Sydney,18,0,199,0.34058,47
+NTChampionship2025,"Darwin, Northern Territory",Northern Territory,2025-11-08,2025-11-08,-12.36715,130.88494,Darwin,11.5,0,25,25,141
+NxNjoyableSydneyGathering2026,"Sydney, New South Wales",New South Wales,2026-03-28,2026-03-29,-33.88987,151.15287,Sydney,5.7,0,142,0.23267,36
+OC2022,"Melbourne, Victoria",Victoria,2022-12-15,2022-12-18,-37.78538,144.94778,Melbourne,3.4,0,652,0.52588,268
+OC2024,"Perth, Western Australia",Western Australia,2024-12-19,2024-12-22,-31.95647,115.85239,Perth,1,0,292,0.89412,266
+OddDayinSydney2018,"Sydney, New South Wales",New South Wales,2018-11-11,2018-11-11,-33.90904,151.15418,Sydney,6.8,0,150,1.3146,56
+OddDayinSydney2019,"Sydney, New South Wales",New South Wales,2019-11-10,2019-11-10,-33.89498,151.15757,Sydney,5.6,0,142,0.46759,46
+OddSidesinSydney2024,"Sydney, New South Wales",New South Wales,2024-12-07,2024-12-08,-33.82954,151.20747,Sydney,4.4,0,65,0.08211,59
+Only3x3sinPerth2024,"Perth, Western Australia",Western Australia,2024-05-25,2024-05-25,-31.98774,115.8674,Perth,4,0,57,0.15299,120
+OnlyCubesinScarborough2026,"Perth, Western Australia",Western Australia,2026-03-28,2026-03-28,-31.89499,115.77497,Perth,10.4,0,55,0.20291,68
+OntheSideSouthAustralia2023,"Adelaide, South Australia",South Australia,2023-03-11,2023-03-11,-34.95064,138.60797,Adelaide,2.6,0,58,0.23877,65
+OntheSideSouthAustralia2024,"Adelaide, South Australia",South Australia,2024-02-10,2024-02-10,-34.95062,138.60808,Adelaide,2.6,0,51,0.19893,64
+Orange2026,"Orange, New South Wales",New South Wales,2026-04-11,2026-04-12,-33.28403,149.10091,Sydney,206.1,1,49,49,39
+OrangeZest2023,"Orange, New South Wales",New South Wales,2023-01-08,2023-01-08,-33.28216,149.09861,Sydney,206.4,1,55,2.39134,78
+PBQatUTS2023,"Sydney, New South Wales",New South Wales,2023-04-30,2023-04-30,-33.88388,151.20027,Sydney,1.9,0,26,0.02244,32
+Perth10YearAnniversary2021,"Perth, Western Australia",Western Australia,2021-12-11,2021-12-11,-31.79148,115.79967,Perth,18.8,0,75,0.23849,40
+PerthAutumn2018,"Perth, Western Australia",Western Australia,2018-04-07,2018-04-08,-31.79155,115.79947,Perth,18.8,0,77,1.74906,39
+PerthAutumn2022,"Perth, Western Australia",Western Australia,2022-03-19,2022-03-19,-31.98811,115.86678,Perth,4,0,67,0.21826,33
+PerthAutumn2023,"Perth, Western Australia",Western Australia,2023-04-29,2023-04-30,-31.98858,115.86765,Perth,4.1,0,115,0.29517,194
+PerthAutumn2024,"Perth, Western Australia",Western Australia,2024-05-11,2024-05-12,-31.82693,115.74649,Perth,17.7,0,59,0.16005,72
+PerthAutumn2025,"Perth, Western Australia",Western Australia,2025-05-24,2025-05-25,-31.82692,115.74681,Perth,17.7,0,78,0.22796,98
+PerthCubeCon2016,"Perth, Western Australia",Western Australia,2016-04-03,2016-04-03,-31.95608,115.85321,Perth,0.9,0,34,0.5867,41
+PerthFavouritesEvening2026,"Perth, Western Australia",Western Australia,2026-04-21,2026-04-21,-31.80534,115.77331,Perth,18.4,0,30,0.10845,38
+PerthFMCDay2023,"Perth, Western Australia",Western Australia,2023-02-18,2023-02-18,-31.95111,115.8569,Perth,0.4,0,13,0.03875,67
+PerthFMCDay2026,"Perth, Western Australia",Western Australia,2026-10-03,2026-10-03,-31.75393,115.75039,Perth,24.4,0,10,0.03583,95
+PerthLateNight2020,"Perth, Western Australia",Western Australia,2020-08-09,2020-08-09,-31.94045,115.8366,Perth,2.7,0,59,0.54737,34
+PerthPuzzle2011,"Perth, Western Australia",Western Australia,2011-12-10,2011-12-11,-31.97819,115.81851,Perth,5,0,12,1.09216,34
+PerthPuzzleMarathon2022,"Perth, Western Australia",Western Australia,2022-08-06,2022-08-07,-31.98811,115.86678,Perth,4,0,89,0.29511,114
+PerthPuzzleParty2019,"Perth, Western Australia",Western Australia,2019-01-12,2019-01-13,-31.79155,115.79947,Perth,18.8,0,53,0.79104,46
+PerthPuzzleParty2020,"Perth, Western Australia",Western Australia,2020-01-04,2020-01-05,-31.79148,115.79967,Perth,18.8,0,73,0.5748,32
+PerthPuzzleParty2024,"Perth, Western Australia",Western Australia,2024-01-13,2024-01-13,-31.98798,115.86679,Perth,4,0,75,0.19986,144
+PerthPuzzleParty2025,"Perth, Western Australia",Western Australia,2025-01-18,2025-01-18,-31.98804,115.86654,Perth,4,0,66,0.14805,54
+PerthPuzzleParty2026,"Perth, Western Australia",Western Australia,2026-05-16,2026-05-16,-31.91962,115.8352,Perth,4.4,0,54,0.19763,70
+PerthPuzzlePyjamaParty2024,"Perth, Western Australia",Western Australia,2024-04-27,2024-04-27,-31.84365,115.80809000000001,Perth,13.1,0,60,0.15228,92
+PerthSummer2016,"Perth, Western Australia",Western Australia,2016-01-31,2016-01-31,-31.97819,115.81851,Perth,5,0,43,1.22857,49
+PerthSummer2017,"Perth, Western Australia",Western Australia,2017-01-22,2017-01-22,-32.06879,115.78154,Perth,15,0,50,0.78385,30
+PerthSummer2023,"Perth, Western Australia",Western Australia,2023-01-21,2023-01-22,-31.88547,115.87533,Perth,7.6,0,143,0.45772,81
+PerthSummer2026,"Perth, Western Australia",Western Australia,2026-01-31,2026-02-01,-31.98802,115.86641,Perth,4,0,85,0.36762,74
+PerthSummerOpen2011,"Perth, Western Australia",Western Australia,2011-02-06,2011-02-06,-31.95222,115.85889,Perth,0.2,0,15,15,54
+PerthTimeTrial2023,"Perth, Western Australia",Western Australia,2023-07-01,2023-07-02,-31.82737,115.74657,Perth,17.6,0,79,0.19409,72
+PerthTimeTrial2024,"Perth, Western Australia",Western Australia,2024-08-10,2024-08-10,-31.84384,115.80835,Perth,13.1,0,52,0.13483,124
+PerthTimeTrial2025,"Perth, Western Australia",Western Australia,2025-10-11,2025-10-11,-31.98798,115.79128,Perth,7.7,0,43,0.13128,81
+PerthTimeTrial2026,"Perth, Western Australia",Western Australia,2026-05-31,2026-05-31,-31.98798,115.79128,Perth,7.7,0,53,0.20329,53
+PerthUndergroundOpen2022,"Perth, Western Australia",Western Australia,2022-01-29,2022-01-29,-31.94984,115.85945,Perth,0.3,0,91,0.28508,81
+PerthWinter2015,"Perth, Western Australia",Western Australia,2015-07-18,2015-07-18,-31.97836,115.81848,Perth,5,0,36,36,84
+PerthWinter2016,"Perth, Western Australia",Western Australia,2016-07-24,2016-07-24,-32.06879,115.78154,Perth,15,0,40,0.747,27
+PerthWinter2017,"Perth, Western Australia",Western Australia,2017-07-22,2017-07-22,-31.97914,115.81663,Perth,5.2,0,51,0.81401,38
+PerthWinter2024,"Perth, Western Australia",Western Australia,2024-07-27,2024-07-28,-31.98792,115.8664,Perth,4,0,103,0.29916,110
+PerthWinter2025,"Perth, Western Australia",Western Australia,2025-06-21,2025-06-22,-31.82688,115.74682,Perth,17.7,0,56,0.16057,88
+PerthWinter2026,"Perth, Western Australia",Western Australia,2026-08-01,2026-08-02,-31.98812,115.86652,Perth,4,0,79,0.3322,93
+PinjarraPrideandPuzzles2024,"Pinjarra, Western Australia",Western Australia,2024-06-16,2024-06-16,-32.62784,115.87191,Perth,75.2,0,21,0.07115,69
+PinjarraPuzzleParty2021,"Pinjarra, Western Australia",Western Australia,2021-01-17,2021-01-17,-32.62796,115.87224,Perth,75.2,0,18,0.15471,62
+PinjarraPuzzleParty2023,"Pinjarra, Western Australia",Western Australia,2023-07-16,2023-07-16,-32.62784,115.87191,Perth,75.2,0,29,0.09068,168
+PlayfordCubing2023,"Adelaide, South Australia",South Australia,2023-11-04,2023-11-05,-34.71785,138.67134,Adelaide,24.3,0,89,0.30838,100
+PleaseBeFinishedBrisbane2025,"Brisbane, Queensland",Queensland,2025-08-30,2025-08-31,-27.5356,153.09423,Brisbane,10,0,47,0.13662,89
+PleaseBeFinishedBrisbane2026,"Brisbane, Queensland",Queensland,2026-03-14,2026-03-15,-27.5356,153.09423,Brisbane,10,0,37,0.08952,102
+PleaseBeQuietBrisbane2021,"Brisbane, Queensland",Queensland,2021-04-10,2021-04-10,-27.39342,152.99048,Brisbane,9.2,0,18,0.10834,46
+PleaseBeQuietBrisbane2022,"Brisbane, Queensland",Queensland,2022-09-24,2022-09-24,-27.39312,152.99043,Brisbane,9.2,0,17,0.03642,72
+PleaseBeQuietBrisbane2023,"Brisbane, Queensland",Queensland,2023-04-01,2023-04-02,-27.39312,152.99043,Brisbane,9.2,0,30,0.04622,56
+PleaseBeQuietBrisbane2024,"Brisbane, Queensland",Queensland,2024-04-27,2024-04-28,-27.39312,152.99043,Brisbane,9.2,0,40,0.05985,192
+PleaseBeSolvedPadbury2024,"Perth, Western Australia",Western Australia,2024-09-01,2024-09-01,-31.80547,115.77316,Perth,18.3,0,22,0.06358,47
+POPSOpen2016,"Melbourne, Victoria",Victoria,2016-12-11,2016-12-11,-37.77978,145.21565,Melbourne,22.5,0,95,0.41981,31
+PuzzlingPakenham2019,"Melbourne, Victoria",Victoria,2019-10-26,2019-10-26,-38.06525,145.45544,Melbourne,51.5,0,55,0.06525,100
+PuzzlingPakenhamSaturday2025,"Melbourne, Victoria",Victoria,2025-09-27,2025-09-27,-38.07588,145.48371,Melbourne,54.2,0,95,0.13292,75
+PuzzlingPakenhamSaturday2026,"Melbourne, Victoria",Victoria,2026-09-26,2026-09-26,-38.07585,145.48367,Melbourne,54.2,0,73,0.07862,126
+PuzzlingPakenhamSunday2025,"Melbourne, Victoria",Victoria,2025-09-28,2025-09-28,-38.07588,145.48371,Melbourne,54.2,0,71,0.09381,76
+PuzzlingPakenhamSunday2026,"Melbourne, Victoria",Victoria,2026-09-27,2026-09-27,-38.07585,145.48367,Melbourne,54.2,0,86,0.0897,127
+PuzzlingParramatta2024,"Parramatta, New South Wales",New South Wales,2024-08-10,2024-08-11,-33.81676,151.0085,Sydney,19.4,0,80,0.10985,60
+PuzzlingParramatta2026,"Sydney, New South Wales",New South Wales,2026-05-23,2026-05-24,-33.81674,151.00852,Sydney,19.4,0,83,0.16397,54
+PuzzlingPinjarra2021,"Pinjarra, Western Australia",Western Australia,2021-11-21,2021-11-21,-32.62796,115.87224,Perth,75.2,0,70,0.27369,78
+QLDQuietStateChamps2025,"Brisbane, Queensland",Queensland,2025-05-17,2025-05-17,-27.39312,152.99043,Brisbane,9.2,0,16,0.03211,39
+QLDStateChampionship2025,"Brisbane, Queensland",Queensland,2025-04-11,2025-04-13,-27.48118,153.0172,Brisbane,1.5,0,200,0.43877,100
+QueenslandOpen2022,"Moreton Bay, Queensland",Queensland,2022-07-23,2022-07-24,-27.11673,152.95038,Brisbane,40,0,256,0.94788,113
+QueenslandOpen2023,"Brisbane, Queensland",Queensland,2023-07-08,2023-07-09,-27.48173,153.01712,Brisbane,1.5,0,282,0.48932,118
+QueenslandOpen2024,"Brisbane, Queensland",Queensland,2024-06-28,2024-06-30,-27.48161,153.01721,Brisbane,1.5,0,265,0.41405,134
+QueenslandOpen2026,"Brisbane, Queensland",Queensland,2026-06-27,2026-06-28,-27.48118,153.0172,Brisbane,1.5,0,256,0.76271,207
+QuintilianCubeOff2023,"Perth, Western Australia",Western Australia,2023-06-17,2023-06-17,-31.96667,115.792,Perth,6.7,0,69,0.16871,31
+QUTQubeChallengeSaturday2023,"Brisbane, Queensland",Queensland,2023-11-25,2023-11-25,-27.45189,153.01729,Brisbane,2.1,0,73,0.09104,69
+QUTQubeChallengeSunday2023,"Brisbane, Queensland",Queensland,2023-11-26,2023-11-26,-27.45189,153.01729,Brisbane,2.1,0,73,0.08901,70
+RockinghamRapid2021,"Rockingham, Western Australia",Western Australia,2021-09-12,2021-09-12,-32.27587,115.732,Perth,38,0,67,0.25784,62
+RockinghamRapid2022,"Rockingham, Western Australia",Western Australia,2022-05-07,2022-05-07,-32.27606,115.73205,Perth,38,0,64,0.21674,37
+RunawayBayMaySaturday2023,"Gold Coast, Queensland",Queensland,2023-05-27,2023-05-27,-27.91089,153.39993,Brisbane,61.4,0,109,0.25127,94
+RunawayBayMaySunday2023,"Gold Coast, Queensland",Queensland,2023-05-28,2023-05-28,-27.91089,153.39993,Brisbane,61.4,0,85,0.17308,95
+RunawayBaySaturdayChallenge2022,"Gold Coast, Queensland",Queensland,2022-09-03,2022-09-03,-27.91098,153.39991,Brisbane,61.5,0,110,0.37155,107
+RunawayBaySundayChallenge2022,"Gold Coast, Queensland",Queensland,2022-09-04,2022-09-04,-27.91089,153.39993,Brisbane,61.4,0,112,0.30661,108
+SASideStateChampionship2025,"Adelaide, South Australia",South Australia,2025-05-18,2025-05-18,-34.97694,138.62018,Adelaide,5.7,0,14,0.06241,101
+SASprintShowdown2024,"Adelaide, South Australia",South Australia,2024-05-04,2024-05-04,-34.91112,138.62615,Adelaide,3,0,66,0.21093,149
+SAStateChampionship2021,"Adelaide, South Australia",South Australia,2021-06-05,2021-06-06,-34.95085,138.59053,Adelaide,2.7,0,98,1.40008,63
+SAStateChampionship2025,"Adelaide, South Australia",South Australia,2025-07-19,2025-07-20,-34.92859,138.64222,Adelaide,3.8,0,87,0.57356,101
+ScarboroughSkewbOff2023,"Scarborough, Western Australia",Western Australia,2023-08-20,2023-08-20,-31.89523,115.77445,Perth,10.4,0,47,0.12365,58
+SheppartonAutumn2014,"Shepparton, Victoria",Victoria,2014-03-22,2014-03-22,-36.37966,145.40422,Melbourne,164.4,1,26,2.88889,61
+SheppartonWinter2013,"Shepparton, Victoria",Victoria,2013-06-08,2013-06-08,-36.38021,145.40478,Melbourne,164.3,1,27,27,37
+ShowgroundShowdown2021,"Claremont, Western Australia",Western Australia,2021-01-30,2021-01-31,-31.97509,115.78488,Perth,7.6,0,113,0.74451,75
+SideNBlindNarreWarren2023,"Melbourne, Victoria",Victoria,2023-06-03,2023-06-04,-38.02696,145.30558,Melbourne,38.3,0,47,0.03408,75
+SideNBlindNarreWarren2024,"Melbourne, Victoria",Victoria,2024-08-03,2024-08-04,-38.02695,145.30565000000001,Melbourne,38.3,0,38,0.04507,87
+SideNBlindNarreWarren2026,"Melbourne, Victoria",Victoria,2026-06-13,2026-06-14,-38.02693,145.30567,Melbourne,38.3,0,41,0.05207,97
+SilentSouthAustralia2023,"Adelaide, South Australia",South Australia,2023-08-26,2023-08-26,-34.87405,138.54084,Adelaide,8.2,0,31,0.1082,142
+SilentSydney2022,"Sydney, New South Wales",New South Wales,2022-03-27,2022-03-27,-33.87237,151.22576,Sydney,1.6,0,21,0.04953,31
+SimpleSolutionSA2021,"Adelaide, South Australia",South Australia,2021-09-19,2021-09-19,-34.97699,138.61995,Adelaide,5.7,0,16,0.13019,34
+SimpleSydneySaturday2023,"Sydney, New South Wales",New South Wales,2023-09-09,2023-09-09,-33.90938,151.15428,Sydney,6.8,0,138,0.11857,118
+SimpleSydneySunday2023,"Sydney, New South Wales",New South Wales,2023-09-10,2023-09-10,-33.90938,151.15428,Sydney,6.8,0,140,0.11564,119
+SKCSpring2018,"Melbourne, Victoria",Victoria,2018-10-27,2018-10-27,-37.8336,145.01998,Melbourne,5.5,0,114,0.70482,47
+SlowDownAdelaide2024,"Adelaide, South Australia",South Australia,2024-09-21,2024-09-21,-34.87388,138.5411,Adelaide,8.2,0,29,0.09245,117
+SlowDownPerth2019,"Perth, Western Australia",Western Australia,2019-04-22,2019-04-22,-31.97924,115.81666,Perth,5.2,0,18,0.38333,40
+SlowDownPerth2020,"Perth, Western Australia",Western Australia,2020-03-15,2020-03-15,-31.94101,115.84046,Perth,2.3,0,24,0.1715,44
+SlowDownPerth2022,"Perth, Western Australia",Western Australia,2022-06-19,2022-06-19,-31.94045,115.8366,Perth,2.7,0,22,0.0678,66
+SlowDownSwanbourne2021,"Perth, Western Australia",Western Australia,2021-09-19,2021-09-19,-31.98111,115.77308,Perth,8.9,0,13,0.04379,34
+SolvinginSale2019,"Sale, Victoria",Victoria,2019-04-13,2019-04-14,-38.11179,147.06377,Melbourne,187.3,1,43,7.2601,115
+SolvinginSale2021,"Sale, Victoria",Victoria,2021-04-10,2021-04-11,-38.10836,147.06304,Melbourne,187.2,1,55,55,36
+SolvinginSale2022,"Sale, Victoria",Victoria,2022-04-09,2022-04-10,-38.10804,147.06262,Melbourne,187.2,1,66,4.4,54
+SolvinginSale2023,"Sale, Victoria",Victoria,2023-04-15,2023-04-16,-38.10804,147.06262,Melbourne,187.2,1,73,73,176
+SolvingInSale2024,"Sale, Victoria",Victoria,2024-04-06,2024-04-07,-38.10804,147.06262,Melbourne,187.2,1,77,2.64515,75
+SolvinginSale2025,"Sale, Victoria",Victoria,2025-04-11,2025-04-13,-38.10804,147.06262,Melbourne,187.2,1,79,6.63871,75
+SolvinginSale2026,"Sale, Victoria",Victoria,2026-04-17,2026-04-19,-38.10804,147.06262,Melbourne,187.2,1,75,1.7339,121
+Sorell2022,"Sorell, Tasmania",Tasmania,2022-01-14,2022-01-15,-42.78111,147.56151,Hobart,22.2,0,43,0.68254,42
+SouthAustralianOpen2022,"Adelaide, South Australia",South Australia,2022-11-05,2022-11-06,-34.87493,138.53977,Adelaide,8.2,0,139,1.15093,80
+SouthAustralianOpen2023,"Adelaide, South Australia",South Australia,2023-09-02,2023-09-03,-34.8746,138.53948,Adelaide,8.2,0,110,0.36961,149
+SouthCoastSpring2022,"Kiama, New South Wales",New South Wales,2022-11-19,2022-11-19,-34.67477,150.85698,Sydney,95.4,0,66,0.14738,49
+SouthPerthCubeDay2024,"Perth, Western Australia",Western Australia,2024-03-23,2024-03-23,-31.98807,115.86664,Perth,4,0,78,0.20512,60
+SouthPerthFMCDay2025,"Perth, Western Australia",Western Australia,2025-02-01,2025-02-01,-32.09242,115.84151,Perth,15.7,0,18,0.04483,102
+SouthPerthSummer2020,"South Perth, Western Australia",Western Australia,2020-12-19,2020-12-19,-31.9878,115.86707,Perth,4,0,93,0.72592,33
+SparkMelbourneAutumnSat2026,"Melbourne, Victoria",Victoria,2026-05-23,2026-05-23,-37.81473,145.048,Melbourne,7.5,0,113,0.12827,74
+SparkMelbourneAutumnSun2026,"Melbourne, Victoria",Victoria,2026-05-24,2026-05-24,-37.81463,145.04809,Melbourne,7.5,0,89,0.09594,75
+SparkMelbourneFebruary2025,"Melbourne, Victoria",Victoria,2025-02-22,2025-02-23,-37.84412,145.04479,Melbourne,7.9,0,126,0.15544,32
+SparkMelbourneJuly2025,"Melbourne, Victoria",Victoria,2025-07-26,2025-07-27,-37.81464,145.04715,Melbourne,7.4,0,238,0.33536,68
+SparkMelbourneSaturday2024,"Melbourne, Victoria",Victoria,2024-10-05,2024-10-05,-37.84412,145.04479,Melbourne,7.9,0,93,0.12043,52
+SparkMelbourneSunday2024,"Melbourne, Victoria",Victoria,2024-10-06,2024-10-06,-37.84412,145.04479,Melbourne,7.9,0,97,0.12141,53
+SpeedcubingatSeaworks2023,"Melbourne, Victoria",Victoria,2023-03-18,2023-03-19,-37.86333,144.90712,Melbourne,7.4,0,434,0.30593,150
+SpeedySouthPerth2020,"Perth, Western Australia",Western Australia,2020-11-14,2020-11-14,-31.9878,115.86707,Perth,4,0,91,0.89293,75
+SpeedySouthPerth2023,"Perth, Western Australia",Western Australia,2023-11-19,2023-11-19,-31.98798,115.86679,Perth,4,0,92,0.26637,166
+SpeedySouthport2024,"Gold Coast, Queensland",Queensland,2024-11-16,2024-11-17,-27.97101,153.41416,Brisbane,67.7,0,155,0.41867,177
+SpeedySouthport2025,"Gold Coast, Queensland",Queensland,2025-11-22,2025-11-23,-27.97101,153.41416,Brisbane,67.7,0,145,0.4012,167
+SteadySorrento2022,"Perth, Western Australia",Western Australia,2022-12-04,2022-12-04,-31.82489,115.75068,Perth,17.6,0,28,0.07703,50
+SteadySwanbourne2021,"Swanbourne, Western Australia",Western Australia,2021-06-26,2021-06-26,-31.98111,115.77308,Perth,8.9,0,25,0.10687,41
+StOliversSpeedySaturday2023,"Melbourne, Victoria",Victoria,2023-05-20,2023-05-20,-37.73029,144.94225,Melbourne,9.5,0,85,0.06158,58
+StOliversSpeedySunday2023,"Melbourne, Victoria",Victoria,2023-05-21,2023-05-21,-37.73029,144.94225,Melbourne,9.5,0,99,0.06976,59
+SurfCoastCubing2019,"Anglesea, Victoria",Victoria,2019-12-29,2019-12-29,-38.40944,144.18517,Melbourne,95.1,0,66,0.1108,66
+SydChamps2017,"Sydney, New South Wales",New South Wales,2017-12-16,2017-12-17,-33.75736,151.11477,Sydney,15.2,0,117,0.99153,24
+SydneyAutumn2012,"Sydney, New South Wales",New South Wales,2012-04-21,2012-04-21,-33.88553,151.18686,Sydney,2.8,0,42,42,25
+SydneyAutumn2015,"Kensington, New South Wales",New South Wales,2015-05-02,2015-05-02,-33.91774,151.22749,Sydney,5.7,0,73,0.61374,56
+SydneyAutumn2016,"Sydney, New South Wales",New South Wales,2016-05-08,2016-05-08,-33.91774,151.22749,Sydney,5.7,0,67,0.43366,21
+SydneyChampionship2016,"Sydney, New South Wales",New South Wales,2016-12-17,2016-12-18,-33.75736,151.11477,Sydney,15.2,0,102,0.51763,18
+SydneyCubingDecathlon2026,"Sydney, New South Wales",New South Wales,2026-10-02,2026-10-04,-33.82941,151.20698,Sydney,4.4,0,143,0.24305,59
+SydneyOpen2019,"Sydney, New South Wales",New South Wales,2019-12-14,2019-12-15,-33.75736,151.11477,Sydney,15.2,0,170,0.55995,67
+SydneyReOpenSaturday2021,"Sydney, New South Wales",New South Wales,2021-03-27,2021-03-27,-33.7566,151.11333,Sydney,15.3,0,92,92,39
+SydneyReOpenSunday2021,"Sydney, New South Wales",New South Wales,2021-03-28,2021-03-28,-33.7566,151.11333,Sydney,15.3,0,99,1.07609,40
+SydneySpring2014,"Kensington, New South Wales",New South Wales,2014-11-23,2014-11-23,-33.91774,151.22749,Sydney,5.7,0,84,1.02568,72
+SydneySpringSaturday2024,"Sydney, New South Wales",New South Wales,2024-11-16,2024-11-16,-33.87942,151.15894,Sydney,4.8,0,108,0.14958,48
+SydneySpringSunday2024,"Sydney, New South Wales",New South Wales,2024-11-17,2024-11-17,-33.87942,151.15894,Sydney,4.8,0,104,0.13588,49
+SydneySquare1v12023,"Sydney, New South Wales",New South Wales,2023-06-03,2023-06-04,-33.72848,151.08303,Sydney,19.5,0,54,0.04285,74
+SydneySummer2015,"Sydney, New South Wales",New South Wales,2015-12-19,2015-12-19,-33.89226,151.20429,Sydney,2.7,0,115,1.08829,29
+SydneySummer2023,"Sydney, New South Wales",New South Wales,2023-12-16,2023-12-17,-33.7248,151.1202,Sydney,18,0,316,0.31955,113
+SydneyUltimateClockClash2023,"Sydney, New South Wales",New South Wales,2023-03-26,2023-03-26,-33.80806,150.97387,Sydney,22.8,0,72,0.06232,109
+SydneyWinter2015,"Kensington, New South Wales",New South Wales,2015-08-08,2015-08-08,-33.91772,151.2274,Sydney,5.7,0,89,0.62834,30
+SydneyWinter2017,"Sydney, New South Wales",New South Wales,2017-06-17,2017-06-17,-33.75736,151.11477,Sydney,15.2,0,113,0.62431,22
+SydneyWinterSaturday2022,"Sydney, New South Wales",New South Wales,2022-08-27,2022-08-27,-33.87611,151.17837,Sydney,3,0,108,0.22347,100
+SydneyWinterSunday2022,"Sydney, New South Wales",New South Wales,2022-08-28,2022-08-28,-33.87611,151.17837,Sydney,3,0,101,0.18838,101
+TakeYourTimeBrisbane2026,"Brisbane, Queensland",Queensland,2026-09-19,2026-09-20,-27.23869,153.01698,Brisbane,25.7,0,78,0.19673,89
+TakeYourTimeSydney2024,"Sydney, New South Wales",New South Wales,2024-10-12,2024-10-13,-33.96112,151.13498,Sydney,12.4,0,84,0.12116,59
+TakeYourTimeSydney2025,"Sydney, New South Wales",New South Wales,2025-10-11,2025-10-12,-33.96119,151.13446,Sydney,12.4,0,86,0.1468,121
+TakeYourTimeSydney2026,"Sydney, New South Wales",New South Wales,2026-09-12,2026-09-13,-33.81657,151.0085,Sydney,19.5,0,77,0.12882,46
+TamarValleyTurning2026,"Exeter, Tasmania",Tasmania,2026-05-03,2026-05-03,-41.29891,146.95572,Hobart,178.9,1,20,1.85452,34
+TasmanianOpen2022,"Sorell, Tasmania",Tasmania,2022-03-25,2022-03-27,-42.78101,147.56095,Hobart,22.2,0,50,0.71429,42
+TASSideStateChampionship2025,"Hobart, Tasmania",Tasmania,2025-06-14,2025-06-14,-42.88146,147.40317,Hobart,6.2,0,26,0.36199,49
+TassieSummer2023,"Kingston, Tasmania",Tasmania,2023-01-08,2023-01-08,-42.98108,147.32238,Hobart,11,0,58,0.8535,86
+TassieSummer2024,"Sorell, Tasmania",Tasmania,2024-01-13,2024-01-14,-42.78093,147.5609,Hobart,22.2,0,64,1.77779,90
+TassieSummer2025,"Hobart, Tasmania",Tasmania,2025-01-04,2025-01-05,-42.79011,147.25389,Hobart,11.9,0,45,0.95235,39
+TassieSummer2026,"Hobart, Tasmania",Tasmania,2026-01-17,2026-01-18,-42.78088,147.56091,Hobart,22.2,0,56,1.67121,68
+TassieTwistOff2022,"Sorell, Tasmania",Tasmania,2022-08-20,2022-08-21,-42.78043,147.56093,Hobart,22.2,0,52,1.01961,59
+TassieWinter2023,"Sorell, Tasmania",Tasmania,2023-06-17,2023-06-18,-42.78207,147.56551,Hobart,22.4,0,51,0.95044,66
+TASStateChampionship2021,"Sorell, Tasmania",Tasmania,2021-05-22,2021-05-23,-42.78111,147.56151,Hobart,22.2,0,71,1.44898,53
+TASStateChampionship2025,"Hobart, Tasmania",Tasmania,2025-04-26,2025-04-26,-42.88146,147.40317,Hobart,6.2,0,48,0.98868,40
+TheBigCubeMelbourne2023,"Melbourne, Victoria",Victoria,2023-10-14,2023-10-14,-37.81946,145.19085,Melbourne,20,0,95,0.06014,39
+TheBigCubeMelbourne2024,"Melbourne, Victoria",Victoria,2024-07-20,2024-07-20,-37.81925,145.1901,Melbourne,20,0,108,0.12773,97
+TheBigCubeMelbourne2025,"Melbourne, Victoria",Victoria,2025-10-11,2025-10-11,-37.81935,145.19011,Melbourne,20,0,109,0.14732,52
+ToowoombaCarnival2026,"Toowoomba, Queensland",Queensland,2026-08-08,2026-08-09,-27.56911,151.959,Brisbane,105.8,1,73,0.32778,62
+ToowoombaTwistOff2025,"Toowoomba, Queensland",Queensland,2025-06-28,2025-06-28,-27.56896,151.959,Brisbane,105.8,1,75,0.27119,69
+TramshedsIIIAugustSaturday2024,"Sydney, New South Wales",New South Wales,2024-08-24,2024-08-24,-33.87611,151.17837,Sydney,3,0,104,0.13318,94
+TramshedsIIIAugustSunday2024,"Sydney, New South Wales",New South Wales,2024-08-25,2024-08-25,-33.87611,151.17837,Sydney,3,0,109,0.13245,95
+TramshedsIIMaySaturday2024,"Sydney, New South Wales",New South Wales,2024-05-18,2024-05-18,-33.87611,151.17837,Sydney,3,0,110,0.11073,148
+TramshedsIIMaySunday2024,"Sydney, New South Wales",New South Wales,2024-05-19,2024-05-19,-33.87611,151.17837,Sydney,3,0,102,0.09849,149
+TramshedsINewcomerSat2024,"Sydney, New South Wales",New South Wales,2024-03-02,2024-03-02,-33.87611,151.17837,Sydney,3,0,111,0.10051,71
+TramshedsINewcomerSun2024,"Sydney, New South Wales",New South Wales,2024-03-03,2024-03-03,-33.87611,151.17837,Sydney,3,0,109,0.09422,72
+TramshedsIVSummerSaturday2025,"Sydney, New South Wales",New South Wales,2025-02-08,2025-02-08,-33.87611,151.17837,Sydney,3,0,106,0.15408,66
+TramshedsIVSummerSunday2025,"Sydney, New South Wales",New South Wales,2025-02-09,2025-02-09,-33.87611,151.17837,Sydney,3,0,92,0.12698,67
+TramshedsIXJuneSaturday2026,"Sydney, New South Wales",New South Wales,2026-06-06,2026-06-06,-33.87611,151.17837,Sydney,3,0,109,0.20746,69
+TramshedsIXJuneSunday2026,"Sydney, New South Wales",New South Wales,2026-06-07,2026-06-07,-33.87611,151.17837,Sydney,3,0,112,0.19833,70
+TramshedsSeriesSaturday2022,"Sydney, New South Wales",New South Wales,2022-02-05,2022-02-05,-33.87611,151.17837,Sydney,3,0,92,0.28173,48
+TramshedsSeriesSunday2022,"Sydney, New South Wales",New South Wales,2022-02-13,2022-02-13,-33.87611,151.17837,Sydney,3,0,90,0.24023,56
+TramshedsVAutumnSaturday2025,"Sydney, New South Wales",New South Wales,2025-05-17,2025-05-17,-33.87611,151.17837,Sydney,3,0,102,0.15082,81
+TramshedsVAutumnSunday2025,"Sydney, New South Wales",New South Wales,2025-05-18,2025-05-18,-33.87611,151.17837,Sydney,3,0,107,0.15087,82
+TramshedsVIIISummerSides2026,"Sydney, New South Wales",New South Wales,2026-02-01,2026-02-01,-33.87611,151.17837,Sydney,3,0,75,0.11705,51
+TramshedsVIISpringSat2025,"Sydney, New South Wales",New South Wales,2025-11-08,2025-11-08,-33.87611,151.17837,Sydney,3,0,110,0.17633,118
+TramshedsVIISpringSun2025,"Sydney, New South Wales",New South Wales,2025-11-09,2025-11-09,-33.87611,151.17837,Sydney,3,0,110,0.1649,119
+TramshedsVIWinterSat2025,"Sydney, New South Wales",New South Wales,2025-08-23,2025-08-23,-33.87611,151.17837,Sydney,3,0,104,0.16106,84
+TramshedsVIWinterSunday2025,"Sydney, New South Wales",New South Wales,2025-08-24,2025-08-24,-33.87611,151.17837,Sydney,3,0,110,0.16017,85
+TramshedsXWinterSaturday2026,"Sydney, New South Wales",New South Wales,2026-08-29,2026-08-29,-33.87611,151.17837,Sydney,3,0,105,0.21694,97
+TramshedsXWinterSunday2026,"Sydney, New South Wales",New South Wales,2026-08-30,2026-08-30,-33.87611,151.17837,Sydney,3,0,109,0.19989,98
+TryCubingBurnie2024,"Burnie, Tasmania",Tasmania,2024-03-10,2024-03-10,-41.07081,145.90043,Hobart,233.7,1,29,4.22677,41
+TryCubingHobart2024,"Howrah, Tasmania",Tasmania,2024-04-06,2024-04-06,-42.88146,147.40317,Hobart,6.2,0,44,1.11629,68
+TryCubinginStHelens2026,"St Helens, Tasmania",Tasmania,2026-01-15,2026-01-15,-41.32222,148.24938,Hobart,189.6,1,14,1.47792,31
+TryCubingSaintHelens2024,"Saint Helens, Tasmania",Tasmania,2024-03-24,2024-03-24,-41.32228,148.24934,Hobart,189.6,1,20,2.35519,55
+TurnAroundTassie2020,"Sorell, Tasmania",Tasmania,2020-12-12,2020-12-13,-42.78111,147.56151,Hobart,22.2,0,68,1.5299,33
+TurninginTownsville2021,"Townsville, Queensland",Queensland,2021-05-08,2021-05-09,-19.27251,146.81069,Brisbane,1111.2,1,49,49,59
+TurninginTownsville2022,"Townsville, Queensland",Queensland,2022-08-06,2022-08-07,-19.27251,146.81069,Brisbane,1111.2,1,45,45,63
+TurninginTownsville2023,"Townsville, Queensland",Queensland,2023-01-14,2023-01-15,-19.28805,146.75279,Brisbane,1113.2,1,38,1.08789,56
+TurninginTownsville2024,"Townsville, Queensland",Queensland,2024-05-18,2024-05-19,-19.28804,146.75276,Brisbane,1113.2,1,26,26,47
+UCubeatUQSaturday2023,"Brisbane, Queensland",Queensland,2023-09-02,2023-09-02,-27.49955,153.015,Brisbane,3.5,0,94,0.14608,141
+UCubeatUQSunday2023,"Brisbane, Queensland",Queensland,2023-09-03,2023-09-03,-27.49955,153.015,Brisbane,3.5,0,80,0.11968,142
+UnleySpring2024,"Adelaide, South Australia",South Australia,2024-11-02,2024-11-02,-34.95062,138.60808,Adelaide,2.6,0,74,0.25985,57
+VICSideStateChampionship2025,"Melbourne, Victoria",Victoria,2025-06-14,2025-06-15,-38.02692,145.30564,Melbourne,38.3,0,45,0.0609,164
+VICStateChampionship2025,"Melbourne, Victoria",Victoria,2025-05-31,2025-06-01,-37.9268,145.34986,Melbourne,36.2,0,344,0.61498,150
+VictorianOpen2022,"Melbourne, Victoria",Victoria,2022-06-04,2022-06-05,-37.96839,145.15982,Melbourne,24.4,0,307,0.58048,66
+VictorianOpen2023,"Melbourne, Victoria",Victoria,2023-07-01,2023-07-02,-37.844,144.96209,Melbourne,3.4,0,467,0.33808,111
+WaggaAutumn2026,"Wagga Wagga, New South Wales",New South Wales,2026-05-09,2026-05-09,-35.10797,147.37185,Canberra,161.1,1,39,39,41
+WAOpen2022,"Perth, Western Australia",Western Australia,2022-06-25,2022-06-26,-31.97495,115.78676,Perth,7.5,0,84,0.25392,45
+WAOpen2023,"Perth, Western Australia",Western Australia,2023-08-26,2023-08-27,-31.97735,115.78408,Perth,7.8,0,143,0.35977,89
+WarmUpCanberra2019,"Canberra, Australian Capital Territory",Australian Capital Territory,2019-07-03,2019-07-03,-35.26138,149.13836,Canberra,2.3,0,54,0.5057,193
+WarmUpMandurah2022,"Mandurah, Western Australia",Western Australia,2022-09-03,2022-09-03,-32.52779,115.74146,Perth,65,0,52,0.17718,45
+WarmUpSydney2018,"Sydney, New South Wales",New South Wales,2018-08-19,2018-08-19,-33.87627,151.17825,Sydney,3,0,115,1.38348,31
+WarmUpSydney2019,"Sydney, New South Wales",New South Wales,2019-07-06,2019-07-07,-33.90904,151.15418,Sydney,6.8,0,197,0.93893,218
+WarmUpSydneySaturday2023,"Sydney, New South Wales",New South Wales,2023-07-15,2023-07-15,-33.87611,151.17837,Sydney,3,0,111,0.10272,62
+WarmUpSydneySunday2023,"Sydney, New South Wales",New South Wales,2023-07-16,2023-07-16,-33.87611,151.17837,Sydney,3,0,104,0.09258,63
+WASideStateChampionship2025,"Perth, Western Australia",Western Australia,2025-09-06,2025-09-06,-31.96199,115.77638,Perth,8.1,0,29,0.09167,88
+WAStateChampionship2021,"Perth, Western Australia",Western Australia,2021-07-17,2021-07-18,-31.97509,115.78488,Perth,7.6,0,127,0.52531,95
+WAStateChampionship2025,"Perth, Western Australia",Western Australia,2025-09-13,2025-09-14,-32.068600000000004,115.83604,Perth,13.2,0,86,0.26758,97
+WC2019,"Melbourne, Victoria",Victoria,2019-07-11,2019-07-14,-37.82521,144.95227,Melbourne,1.6,0,833,2.49653,177
+WestcoastWoodvaleWeekends2019,"Perth, Western Australia",Western Australia,2019-09-28,2019-09-29,-31.79155,115.79947,Perth,18.8,0,77,1.02726,51
+WestMelbourneOpen2026,"Melbourne, Victoria",Victoria,2026-04-11,2026-04-12,-37.89959,144.64085,Melbourne,29.9,0,186,0.24022,118
+WideBayCubing2024,"Hervey Bay, Queensland",Queensland,2024-04-06,2024-04-07,-25.2858,152.84147,Brisbane,243.8,1,64,64,172
+WideBayCubing2025,"Hervey Bay, Queensland",Queensland,2025-07-12,2025-07-13,-25.2858,152.84147,Brisbane,243.8,1,75,75,177
+WideBayCubing2026,"Hervey Bay, Queensland",Queensland,2026-04-18,2026-04-19,-25.2858,152.84147,Brisbane,243.8,1,35,1.02941,52
+WindingDowninWilletton2026,"Perth, Western Australia",Western Australia,2026-08-15,2026-08-15,-32.05915,115.88235,Perth,12.1,0,68,0.24232,103
+WonderfulWilliamstown2022,"Melbourne, Victoria",Victoria,2022-04-23,2022-04-24,-37.85834,144.89612,Melbourne,7.7,0,320,0.92889,71
+YorkCubeDay2021,"York, Western Australia",Western Australia,2021-01-10,2021-01-10,-31.89141,116.76815,Perth,86,0,43,0.39931,55
